@@ -1,3 +1,12 @@
 ---
-error: not_found
-reason: missing
+_id: day4
+_rev: 1-2353cf10184652b81ba95bc14c977974
+name: Népzene nap
+date: június 6, hétfő
+events:
+- name: DJ Qtewly
+  time: '16:00'
+  loc: Kert
+- name: Cirkusz-KA
+  time: '18:00'
+  loc: Kert

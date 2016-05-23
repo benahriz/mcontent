@@ -1,3 +1,18 @@
 ---
-error: not_found
-reason: missing
+_id: day5
+_rev: 2-26f409e03084d25d1e9e027ca5fe05bd
+name: Szabad Nap
+date: június 7, kedd
+events:
+- name: Dr. Analog
+  time: '16:00'
+  loc: Kert
+- name: Györemix! & Direct
+  time: '18:00'
+  loc: Kert
+- name: Gazsi Rap Show
+  time: '19:00'
+  loc: Kert
+- name: MUSHU
+  time: '21:00'
+  loc: Kert

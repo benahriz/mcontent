@@ -1,3 +1,10 @@
 ---
-error: not_found
-reason: missing
+_id: day8
+_rev: 2-770a8a13677530b5cf87d8707751ec9e
+name: Roma nap
+date: június 10, péntek
+events:
+- name: főzőverseny
+  time: '16:00'
+  loc: Kert
+  desc: indul a bazi nagy főzőverseny

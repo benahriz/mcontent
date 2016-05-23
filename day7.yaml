@@ -1,3 +1,9 @@
 ---
-error: not_found
-reason: missing
+_id: day7
+_rev: 2-3b126540d224a3d996b0710c8a20985d
+name: Bringa nap
+date: június 9, csütörtök
+events:
+- name: "Én és a biciklim fotózás, Recikli műhely"
+  time: '16:00'
+  loc: Kert
