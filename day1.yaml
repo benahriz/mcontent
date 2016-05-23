@@ -1,0 +1,55 @@
+---
+_id: day1
+_rev: 19-c2561d9a88b65ff4fc1147b14bed5469
+name: Jazz nap
+date: június 3, péntek
+events:
+- name: DJ Kölyök
+  time: '14:00'
+  loc: Kert
+- name: Marzipan B
+  time: '17:00'
+  loc: Kert
+  desc: "A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeket
+    közvetít, nem akar többet mutatni. \n\n Nőies és férfias, lágy, de néhol kemény
+    igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi
+    popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból."
+  url: https://hu-hu.facebook.com/marzipanb
+  logo: marczipan.png
+- name: Bazsinka Mihály Quartet
+  time: '19:00'
+  loc: Kert
+  image: bazsinka.jpg
+- name: Vár Be Q
+  time: '20:00'
+  loc: Kert
+  desc: "A Vár Be Q zenekar 2015 elején alakult. Főként Várallyay Benedek saját szerzeményeit
+    játsszák közösen kialakított koncepció szerint. \n\nA zenekar tagjai Cseke Dániel,
+    Pál Gábor, Várallyay Benedek és Zombori Attila (2014-ben a Drum-Line tehetségkutató
+    2. helyezettje). Újító és egyben hagyományőrző zenei elképzeléseik által hoznak
+    létre olyan instrumentális zenét, amely érdeklődésre tarthat számot a fiatalabb
+    és idősebb generációk körében egyaránt. \n\nZenéjükben a meghatározó jazzalapot
+    bluesos, funkys és népzenei (magyar és balkáni) hatások szövik át. Céljuk minél
+    több helyre eljutni, és eljuttatni az általuk képviselt minőségi, fogyasztható
+    és értéket képviselő zenét."
+- name: Song-óra
+  time: '21:00'
+  loc: Kert
+- name: TOMBOLA
+  time: '22:00'
+  loc: Kert
+  desc: "Élő tombola sorsolás a támagatói tombolaszelvényel vásárlói között"
+- name: Kerti DJ-k
+  desc: Mr. Fiel, In:Form, Tomanek, DRS, Bodoo
+  time: '23:00'
+  loc: Kert
+- name: Dockerman
+  time: '23:00'
+  loc: Nagyterem
+_attachments:
+  bazsinka.jpg:
+    content_type: image/jpeg
+    revpos: 18
+    digest: md5-m4fy/vygIoGMgclr/Y2gSw==
+    length: 95649
+    stub: true

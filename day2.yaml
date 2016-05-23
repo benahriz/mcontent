@@ -1,0 +1,17 @@
+---
+_id: day2
+_rev: 9-04c5d4971dca4377bfb0e481b98d18d0
+name: Pszichedelikus nap
+date: június 4, szombat
+events:
+- name: DJ Kölyök
+  time: '14:00'
+  loc: Kert
+- name: Marzipan B
+  time: '17:00'
+  loc: Kert
+  desc: "A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeket
+    közvetít, nem akar többet mutatni. \n\n Nőies és férfias, lágy, de néhol kemény
+    igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi
+    popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból."
+  url: https://hu-hu.facebook.com/marzipanb
