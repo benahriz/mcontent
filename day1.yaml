@@ -85,6 +85,17 @@ events:
 - name: DJ Kölyök
   time: '00:30'
   loc: Nagyterem
+- name: Bádogdob / Haladó
+  time: '15:30'
+  loc: Bogrács
+  desc: "Cseh gulyás knédlivel és káposztával"
+- name: Pergő Képek/Haza és Haladás
+  time: '15:30'
+  loc: Bogrács
+- name: ROBUR Stúdió
+  time: '16:00'
+  loc: Robur
+  desc: "élő bejelentkezés a helyszínről"
 _attachments:
   bazsinka.jpg:
     content_type: image/jpeg
