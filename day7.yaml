@@ -4,6 +4,66 @@ _rev: 2-3b126540d224a3d996b0710c8a20985d
 name: Bringa nap
 date: június 9, csütörtök
 events:
-- name: "Én és a biciklim fotózás, Recikli műhely"
-  time: '16:00'
+- name: Goldsprint feat. Puszi
+  time: '17:00'
   loc: Kert
+- name: Mutánsbringa szépségverseny
+  time: '19:00'
+  loc: Kert
+- name: Dynamite Dudes
+  time: '20:00'
+  loc: Kert
+- name: The Silver Shine
+  time: '21:00'
+  loc: Kert
+- name: TOMBOLA
+  time: '22:00'
+  loc: Kert
+- name: Peta
+  time: '15:00'
+  loc: Kert
+  type: DJ
+- name: Bajtárs
+  time: '17:00'
+  loc: Kert
+  type: DJ
+- name: Peta
+  time: '23:00'
+  loc: Kert
+  type: DJ
+- name: Mustbeat Crew
+  time: '00:30'
+  loc: Kert
+  type: DJ
+- name: As-Best
+  time: '02:00'
+  loc: Kert
+  type: DJ
+- name: Makrohang
+  time: '23:30'
+  loc: Nagyterem
+- name: Naga & Peter Bernath
+  time: '00:30'
+  loc: Nagyterem
+- name: DubPhase
+  time: '23:00'
+  loc: Kisterem
+- name: moszkva tér
+  time: '20:30'
+  loc: Room 041
+- name: Sztyepp
+  time: '23:00'
+  loc: Room 041
+- name: Vektor
+  time: '01:00'
+  loc: Room 041
+- name: Maks+Kontrast
+  time: '03:00'
+  loc: Room 041
+- name: Kovács Ádám hangpostája
+  type: radio
+  time: '16:30'
+  loc: Robur
+  desc: Élő bejelentkezés
+
+
