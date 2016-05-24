@@ -8,3 +8,63 @@ events:
   time: '16:00'
   loc: Kert
   desc: indul a bazi nagy főzőverseny
+- name: Zenés táncház kicsiknek
+  time: '17:00'
+  loc: Kert
+  desc: Lashe Shave és Balogh Fruzsina
+- name: Hagyományörzők
+  loc: Kert
+  time: '18:00'
+  desc: Teleki József Álltalános Iskola hagyományőrző csoportja (A sziráki nemzetiségi iskola tehetségei)
+- name: Főzőverseny
+  desc: A főzőverseny ünnepelyés kóstoltatása, bemutatkoznak a versenyzők és a rettegett zsűri. Eredményhirdetés a tombola alatt! 
+  time: '19:30'
+- name: Dromara
+  loc: Kert
+  time: '21:00'
+- name: TOMBOLA
+  loc: Kert
+  time: '22:00'
+- name: Kerti DJk
+  desc: -|
+    Suefo
+    Ordiman
+    Nafta
+    Szefi?
+  time: '23:00'
+  loc: Kert
+- name: Khamoro Budapest Band  (40p)
+  time: '23:00'
+  loc: Nagyterem
+- name: Parnograszt
+  time: '00:00'
+  loc: Nagyterem
+- name: Juci, Nafta
+  time: '01:30'
+  loc: Nagyterem
+- name: Half Note City
+  loc: Half Note City
+  time: '20:00'
+  loc: Nagyterem
+- name: Pigeoncoma
+  time: '21:00'
+  loc: Nagyterem
+- name: Deley
+  time: '23:00'
+  loc: Nagyterem
+- name: Toul Syes
+  time: '00:30'
+  loc: Nagyterem
+- name: Isle Of Man
+  time: '20:00'
+  loc: Room 041
+- name: The Somersault Boy
+  time: '21:00'
+  loc: Room 041
+- name: Lopunk
+  time: '23:00'
+  loc: Room 041
+- name: River Of Lust
+  time: '00:30'
+  loc: Room 041
+
