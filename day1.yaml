@@ -48,9 +48,7 @@ events:
   image: dokkerman.jpg
   fb: https://hu-hu.facebook.com/dokkerman/
   desc: |-
-    "A Dokkerman ugyanis funk, a funknak még abból a koszakából, amikor a funkys poprock csak valamiféle disztopikus rémálomnak tűnhetett."
-
-     A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelez
+    "A Dokkerman ugyanis funk, a funknak még abból a koszakából, amikor a funkys poprock csak valamiféle disztopikus rémálomnak tűnhetett. A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelező!
 - name: Gentry Sultan
   time: '22:30'
   loc: Kisterem
@@ -81,7 +79,7 @@ events:
   loc: Kisterem
   sound: https://www.youtube.com/watch?v=vaUjgV5Ql-8
   fb: https://www.facebook.com/choosecheesehungary/
-  desc: "Choose Cheese is a hungarian progressive experimental-improvisational- free/jazz/rock group."
+  desc: "A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek."
 - name: DJ Kölyök
   time: '00:30'
   loc: Nagyterem
