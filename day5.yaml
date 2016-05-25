@@ -13,12 +13,17 @@ events:
 - name: Gazsi Rap Show
   time: '19:00'
   loc: Kert
+  sound: https://www.youtube.com/watch?v=d3Pn8rz2dzQ
+  fb: https://www.facebook.com/Gazsi-Rap-Show-514405815345173
 - name: MUSHU
+  loc: Kert
+  time: '21:00'
 - name: TOMBOLA Special
   time: '22:00'
   loc: Kert
 - name: DubSmile 
   desc: DubSmile SpeedMaraton in da Garden
+  fb: https://www.facebook.com/DubSmile-579054428773646/
   time: '23:00'
   loc: Kert
 - name: After
