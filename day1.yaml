@@ -3,6 +3,7 @@ _id: day1
 _rev: 22-bb3cdc2368fb49dd76c2019558c3f5d9
 name: Jazz nap
 date: június 3, péntek
+fb: https://www.facebook.com/events/1357978594218682
 events:
 - name: DJ Kölyök
   time: '14:00'
@@ -42,7 +43,7 @@ events:
   desc: Mr. Fiel, In:Form, Tomanek, DRS, Bodoo
   time: '23:00'
   loc: Kert
-- name: Dockkerman
+- name: Dokkerman and the Turkeying Fellaz
   time: '23:00'
   loc: Nagyterem
   image: dokkerman.jpg
@@ -52,12 +53,12 @@ events:
 
      A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelez
 - name: Gentry Sultan
-  time: '23:00'
+  time: '22:30'
   loc: Kisterem
   sound: https://gentrysultan.bandcamp.com/
   fb: https://www.facebook.com/gentrysultan/
 - name: The Best Bad Trip
-  time: '00:00'
+  time: '23:30'
   loc: Kisterem
   sound: https://www.youtube.com/watch?v=AX54uq1NR24
   fb: https://www.facebook.com/TheBestBadtrip/
@@ -76,6 +77,9 @@ events:
     Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
     ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
     csinálják amit a legjobban szeretnek: zenélnek."
+- name: Choose Cheese
+  tile: '00:30'
+  loc: Kisterem
 _attachments:
   bazsinka.jpg:
     content_type: image/jpeg
