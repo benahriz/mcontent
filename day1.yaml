@@ -5,10 +5,10 @@ name: Jazz nap
 date: június 3, péntek
 events:
 - name: DJ Kölyök
-  time: '16:00'
+  time: '14:00'
   loc: Kert
 - name: Marzipan B
-  time: '18:00'
+  time: '17:00'
   loc: Kert
   desc: |-
     A Marzipan B élő hangszeres és énekes ze ne, hangsúlyos kórusokkal. Érzelmeketközvetít, nem akar többet mutatni.
@@ -42,20 +42,22 @@ events:
   desc: Mr. Fiel, In:Form, Tomanek, DRS, Bodoo
   time: '23:00'
   loc: Kert
-- name: Dokkerman and the Turkeying Fellaz
-  time: '23:30'
+- name: Dockkerman
+  time: '23:00'
   loc: Nagyterem
   image: dokkerman.jpg
   fb: https://hu-hu.facebook.com/dokkerman/
   desc: |-
-    "A Dokkerman ugyanis funk, a funknak még abból a koszakából, amikor a funkys poprock csak valamiféle disztopikus rémálomnak tűnhetett. A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelező!
+    "A Dokkerman ugyanis funk, a funknak még abból a koszakából, amikor a funkys poprock csak valamiféle disztopikus rémálomnak tűnhetett."
+
+     A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelez
 - name: Gentry Sultan
-  time: '22:30'
+  time: '23:00'
   loc: Kisterem
   sound: https://gentrysultan.bandcamp.com/
   fb: https://www.facebook.com/gentrysultan/
 - name: The Best Bad Trip
-  time: '23:30'
+  time: '00:00'
   loc: Kisterem
   sound: https://www.youtube.com/watch?v=AX54uq1NR24
   fb: https://www.facebook.com/TheBestBadtrip/
@@ -74,26 +76,6 @@ events:
     Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
     ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
     csinálják amit a legjobban szeretnek: zenélnek."
-- name: Choose Cheese
-  time: '00:30'
-  loc: Kisterem
-  sound: https://www.youtube.com/watch?v=vaUjgV5Ql-8
-  fb: https://www.facebook.com/choosecheesehungary/
-  desc: "A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek."
-- name: DJ Kölyök
-  time: '00:30'
-  loc: Nagyterem
-- name: Bádogdob / Haladó
-  time: '15:30'
-  loc: Bogrács
-  desc: "Cseh gulyás knédlivel és káposztával"
-- name: Pergő Képek/Haza és Haladás
-  time: '15:30'
-  loc: Bogrács
-- name: ROBUR Stúdió
-  time: '16:00'
-  loc: Robur
-  desc: "élő bejelentkezés a helyszínről"
 _attachments:
   bazsinka.jpg:
     content_type: image/jpeg

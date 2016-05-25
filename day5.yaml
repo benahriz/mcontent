@@ -14,5 +14,57 @@ events:
   time: '19:00'
   loc: Kert
 - name: MUSHU
-  time: '21:00'
+- name: TOMBOLA Special
+  time: '22:00'
   loc: Kert
+- name: DubSmile 
+  desc: DubSmile SpeedMaraton in da Garden
+  time: '23:00'
+  loc: Kert
+- name: After
+  loc: Kert
+  time: '04:00'
+- name: Dj. Slicz
+  time: '23:00'
+  loc: Nagyterem
+- name: Zvezda Beta
+  time: '20:00'
+  loc: Zvezda Beta
+- name: Kyliga Dalen
+  time: '20:00'
+  loc: Kisterem
+- name: For Good
+  time: '21:00'
+  loc: Kisterem
+- name: THE TAKTIKA
+  time: '23:00'
+  loc: Kisterem
+- name: Elektrik Wale
+  time: '00:00'
+  loc: Kisterem
+- name: Drünken Bastards
+  time: '01:00'
+  loc: Kisterem
+- name: Cökxpon Archiv Set
+  time: '20:00'
+  loc: Room 041
+- name: Film
+  desc:  Meleg Férfiak, Hideg Diktatúrák  (színes, magyar dokumentumfilm, 90 perc, 2015)
+  time: '20:30'
+  loc: Room 041
+- name: Mesterházy
+  time: '23:00'
+  loc: Room 041
+- name: Peter Bernath
+  time: '00:30'
+  loc: Room 041
+- name: Garpo
+  time: '02:00'
+  loc: Room 041
+- name: FMXXX pop up peep show studio az ikarusban
+  time: '16:00-20:00'
+  desc: Felnőtt tartalom pénzadományért cserébe
+  loc: IKARUS
+- name: BOGRÁCS
+  time: '19:00' 
+  desc: Kolorlokál/Cajun Gumbo, Bádogdob/Haladó/Babgulyás
