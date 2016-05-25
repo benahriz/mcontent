@@ -13,7 +13,7 @@ events:
   url: http://www.cirkuszka.com/
   fb: https://www.facebook.com/CirkuszKA/
   desc: The sensuality of Fado with the energy of Tango.Inspired by the diversity of music throughout the world.Born of their their cultural roots, native Hungary.
-  img: cirkuszka.jpg
+  image: cirkuszka.jpg
 - name: DJ Qtewly
   loc: Kert
   time: '23:00'
@@ -22,7 +22,7 @@ events:
   time: '19:30'
 - name: Góbé zenekar
   fb: https://www.facebook.com/GobeZenekar
-  img: gobe.jpg
+  image: gobe.jpg
   desc: |-
      A hattagú budapesti Góbé zenekar a Kárpát-medencei népzenei hagyományt szabadon variálja, lazán és izgalmasan kapcsolja a jazz, a blues, a reggae és a klasszikus zene elemeivel. 
      
@@ -41,12 +41,12 @@ events:
   time: '20:00'
   fb: https://www.facebook.com/parapacs
   url: http://parapacs.hu/
-  img: parapacs.jpg
+  image: parapacs.jpg
 - name: Babra
   desc: délszláv / balkáni táncház
   loc: Kert
   url: http://www.babraband.com/
-  img: babra.jpg
+  image: babra.jpg
   time: '21:00'
 - name: BOGRÁCS
   time: '19:00'

@@ -3,3 +3,62 @@ _id: day6
 _rev: 2-a590ef6d79f1a2e254a1c39b58230da9
 name: Reggae nap
 date: június 08, szerda
+events:
+- name: Dr Analog, Áfonya, Ohmikron, Mr Skunk
+  loc: Kert
+  time: '16:00'
+- name: Speakers Of Zion
+  loc: Kert
+  time: '19:30'
+- name: Ladánybene 27
+  loc: Kert
+  time: '21:00'
+- name: TOMBOLA
+  loc: Kert
+  time: '22:00'
+- name: Gaulamin aka. Christian
+  loc: Kert
+  time: '23:00'
+- name: Dr Analog, Áfonya, Ohmikron, Mr Skunk
+  loc: Kert
+  time: '00:30'
+- name: Dubapest HiFi 
+  desc: (full sound system) & Babystep, G Ras (Riddim Colony), Selecta Bosi (Love Alliance) 
+  time: '23:00-03:00'
+  loc: Nagyterem
+- name: Mheola
+  loc: Kisterem
+  time: '22:00'
+- name: Mentalien
+  loc: Kisterem
+  time: '00:00'
+- name: Vulman & MM & Farkas 
+  loc: Kisterem
+  time: '02:00'
+- name: Cökxpon Archiv Set
+  loc: Room 041
+  time: '20:00'
+- name: Genüma
+  loc: Room 041
+  time: '23:00'
+- name: Ohmikron
+  loc: Room 041
+  time: '01:00'
+- name: Rúka 
+  loc: Room 041
+  time: '03:00'
+- name: Civilizáció
+  type: radio
+  time: '16:00'
+  desc: Élő rádióadás
+  loc: Robur
+- name: "Szex-akció hírcsoport"
+  desc: "vendég: Pálinkás-Szűts Róbert"
+  time: '17:00'
+  type: radio
+  desc: Élő rádióadás
+  loc: Robur
+- name: Bogrács
+  loc: Kert
+  time: '19:00'
+  desc: Híresek/Raszta paszta (vegetarian delight) , Szex-Akció Hírcsoport/Káposztás kondér
