@@ -1,6 +1,6 @@
 ---
 _id: day6
-_rev: 2-a590ef6d79f1a2e254a1c39b58230da9
+_rev: 3-f4a99ea1ed293b340a237d8e845b52b7
 name: Reggae nap
 date: június 08, szerda
 events:
@@ -8,9 +8,17 @@ events:
   loc: Kert
   time: '16:00'
 - name: Speakers Of Zion
+  fb: https://www.facebook.com/speakersofzion
+  image: speakersofzion.jpg
+  desc: |-
+    "REGGAE-DANCEHALL-DUB"
   loc: Kert
   time: '19:30'
 - name: Ladánybene 27
+  fb: https://www.facebook.com/Ladanybene27
+  image: Ladanybene27.jpg
+  desc: |-
+    "Roots reggae, spirit & positive vibe!\nNew album - Offenzíva - www.lb27.hu!\n"
   loc: Kert
   time: '21:00'
 - name: TOMBOLA
@@ -18,13 +26,16 @@ events:
   time: '22:00'
 - name: Gaulamin aka. Christian
   loc: Kert
+  type: DJ
   time: '23:00'
 - name: Dr Analog, Áfonya, Ohmikron, Mr Skunk
   loc: Kert
+  type: DK
   time: '00:30'
-- name: Dubapest HiFi 
-  desc: (full sound system) & Babystep, G Ras (Riddim Colony), Selecta Bosi (Love Alliance) 
-  time: '23:00-03:00'
+- name: Dubapest HiFi
+  desc: "(full sound system) & Babystep, G Ras (Riddim Colony), Selecta Bosi (Love
+    Alliance)"
+  time: 23:00-03:00
   loc: Nagyterem
 - name: Mheola
   loc: Kisterem
@@ -32,7 +43,7 @@ events:
 - name: Mentalien
   loc: Kisterem
   time: '00:00'
-- name: Vulman & MM & Farkas 
+- name: Vulman & MM & Farkas
   loc: Kisterem
   time: '02:00'
 - name: Cökxpon Archiv Set
@@ -41,24 +52,33 @@ events:
 - name: Genüma
   loc: Room 041
   time: '23:00'
+  fb: https://www.facebook.com/153836944657054
+  image: 153836944657054.jpg
+  desc: |-
+    Genüma is a psychedelic-electronic music composer, producer from Budapest, Hungary. 
+    
+    He is also a member of several Budapest-based experimental musical projects/bands.
+    
+  sound: http://www.mixcloud.com/genuma
 - name: Ohmikron
   loc: Room 041
   time: '01:00'
-- name: Rúka 
+- name: Rúka
   loc: Room 041
   time: '03:00'
 - name: Civilizáció
   type: radio
   time: '16:00'
-  desc: Élő rádióadás
+  desc: "Élő rádióadás"
   loc: Robur
-- name: "Szex-akció hírcsoport"
-  desc: "vendég: Pálinkás-Szűts Róbert"
+- name: Szex-akció hírcsoport
+  desc: "Élő rádióadás"
   time: '17:00'
   type: radio
-  desc: Élő rádióadás
   loc: Robur
 - name: Bogrács
   loc: Kert
-  time: '19:00'
-  desc: Híresek/Raszta paszta (vegetarian delight) , Szex-Akció Hírcsoport/Káposztás kondér
+  type: bogracs
+  time: '19:00 kb.'
+  desc: Híresek/Raszta paszta (vegetarian delight)\n, Szex-Akció Hírcsoport/Káposztás
+    kondér

@@ -1,6 +1,6 @@
 ---
 _id: day1
-_rev: 22-bb3cdc2368fb49dd76c2019558c3f5d9
+_rev: 25-c49e12f5b64e146c252afbc958ddb8d4
 name: Jazz nap
 date: június 3, péntek
 fb: https://www.facebook.com/events/1357978594218682
@@ -38,6 +38,7 @@ events:
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
+  type: tombola
   desc: "Élő tombola sorsolás a támagatói tombolaszelvényel vásárlói között"
 - name: Kerti DJ-k
   desc: Mr. Fiel, In:Form, Tomanek, DRS, Bodoo
@@ -78,8 +79,10 @@ events:
     ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
     csinálják amit a legjobban szeretnek: zenélnek."
 - name: Choose Cheese
-  tile: '00:30'
+  time: '00:30'
   loc: Kisterem
+  fb: https://www.facebook.com/choosecheesehungary/
+  desc: choose cheese is a hungarian progressive experimental-improvisational- free/jazz/rock group
 _attachments:
   bazsinka.jpg:
     content_type: image/jpeg

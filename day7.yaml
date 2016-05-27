@@ -1,6 +1,6 @@
 ---
 _id: day7
-_rev: 2-3b126540d224a3d996b0710c8a20985d
+_rev: 16-ace397a6b0a059849ab120f0e919f31d
 name: Bringa nap
 date: június 9, csütörtök
 events:
@@ -13,12 +13,19 @@ events:
 - name: Dynamite Dudes
   time: '20:00'
   loc: Kert
+  fb: https://www.facebook.com/DynamiteDudes
+  desc: '"All big boobs into the first row!"'
 - name: The Silver Shine
   time: '21:00'
   loc: Kert
+  fb: https://www.facebook.com/thesilvershine
+  image: thesilvershine.jpg
+  desc: '"The Silver Shine is a vintage punk rock and roll / punkabilly trio with
+    a thunder-handed female double bassist from Budapest, HUNGARY. "'
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
+  type: tombola
 - name: Peta
   time: '15:00'
   loc: Kert
@@ -42,6 +49,9 @@ events:
 - name: Makrohang
   time: '23:30'
   loc: Nagyterem
+  fb: https://www.facebook.com/Makrohang
+  image: Makrohang.jpg
+  desc: '"psychojazz"'
 - name: Naga & Peter Bernath
   time: '00:30'
   loc: Nagyterem
@@ -64,6 +74,10 @@ events:
   type: radio
   time: '16:30'
   loc: Robur
-  desc: Élő bejelentkezés
-
-
+  desc: "Élő bejelentkezés"
+- name: Bogrács
+  type: bogracs
+  time: 19:00 körül
+  desc: |-
+    dj Zotyka: Mekkragu
+    Tilos Selection: Sinkó Bori raguja (hús nélkül)
