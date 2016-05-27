@@ -78,15 +78,42 @@ events:
     Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
     ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
     csinálják amit a legjobban szeretnek: zenélnek."
+- name: The Best Bad Trip
+  time: '23:30'
+  loc: Kisterem
+  sound: https://www.youtube.com/watch?v=AX54uq1NR24
+  fb: https://www.facebook.com/TheBestBadtrip/
+  desc: "A főként húsz év körüli fiatalokból álló zenekarnak akár jelmondata lehetne,
+    hogy ők játsszák a \"legmegbízhatatlanabb\" zenét, vagyis akármennyire is szórakoztató,
+    ütős, vagy táncos egy éppen játszott téma, bármikor valami másba fordulhat át.
+    \n\nZenéjükben egymást szorosan követik a kemény és lágy, az egyszerű és bonyolult,
+    a rendezett és kaotikus, a keleti és nyugati atmoszférák. Ez egyrészt avantgárd,
+    másrészt roppant szórakoztató. \n\nMivel a (The) Best Bad Trip tagjai főként jazz-t
+    tanulnak, annak hagyományát felhasználva nagy szerepet kap az improvizáció. Ugyanakkor
+    zenéjükre jellemző a sokszor bonyolult és igen összetett kompozciós szerkezet.
+    \n\nA (The) Best Bad Trip a zenei egyenrangúságot tartja fő ideológiájának. Nekik
+    a komolyzene komplexitása nem képvisel se több se kevesebb értéket, mint a punk
+    zene egyszerű nyersessége. \n\nUgyanolyan szívesen építenek be zenéjükbe egy groove-os
+    funky témát mint ahogy az irányított improvizációt és egyéb kortárs zenei stratégiát.
+    Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
+    ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
+    csinálják amit a legjobban szeretnek: zenélnek."
 - name: Choose Cheese
   time: '00:30'
   loc: Kisterem
+  sound: https://www.youtube.com/watch?v=vaUjgV5Ql-8
   fb: https://www.facebook.com/choosecheesehungary/
-  desc: choose cheese is a hungarian progressive experimental-improvisational- free/jazz/rock group
-_attachments:
-  bazsinka.jpg:
-    content_type: image/jpeg
-    revpos: 18
-    digest: md5-m4fy/vygIoGMgclr/Y2gSw==
-    length: 95649
-    stub: true
+  desc: "A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek."
+- name: DJ Kölyök
+  time: '00:30'
+  loc: Nagyterem
+- name: Bogrács
+  time: '19:00 kb'
+  loc: Bogrács
+  desc: "Bádogdob / Haladó,\n Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával"
+- name: ROBUR Stúdió
+  time: '16:00'
+  loc: Robur
+  type: radio
+  desc: "élő bejelentkezés a helyszínről"
+
