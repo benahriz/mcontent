@@ -1,0 +1,110 @@
+{
+  "_id": "day1",
+  "_rev": "27-ca29b53de20204abe909d35b718d1717",
+  "name": "Jazz nap",
+  "date": "június 3, péntek",
+  "fb": "https://www.facebook.com/events/1357978594218682",
+  "events": [
+    {
+      "name": "DJ Kölyök",
+      "time": "14:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Marzipan B",
+      "time": "17:00",
+      "loc": "Kert",
+      "desc": "A Marzipan B élő hangszeres és énekes ze ne, hangsúlyos kórusokkal. Érzelmeketközvetít, nem akar többet mutatni.\n\nNőies és férfias, lágy, de néhol kemény  igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi\n popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból.\"",
+      "url": "https://hu-hu.facebook.com/marzipanb",
+      "logo": "marczipan.png"
+    },
+    {
+      "name": "Bazsinka Mihály Quartet",
+      "time": "19:00",
+      "loc": "Kert",
+      "image": "bazsinka.jpg",
+      "url": "http://bazsinkastream.com/hu"
+    },
+    {
+      "name": "Vár Be Q",
+      "time": "20:00",
+      "loc": "Kert",
+      "desc": "A Vár Be Q zenekar 2015 elején alakult. Főként Várallyay Benedek saját szerzeményeit játsszák közösen kialakított koncepció szerint.\n\nA zenekar tagjai Cseke Dániel,  Pál Gábor, Várallyay Benedek és Zombori Attila (2014-ben a Drum-Line tehetségkutató 2. helyezettje). Újító és egyben hagyományőrző zenei elképzeléseik által hoznak létre olyan instrumentális zenét, amely érdeklődésre tarthat számot a fiatalabb   és idősebb generációk körében egyaránt.\n\nZenéjükben a meghatározó jazzalapot  bluesos, funkys és népzenei (magyar és balkáni) hatások szövik át. Céljuk minél több helyre eljutni, és eljuttatni az általuk képviselt minőségi, fogyasztható és értéket képviselő zenét.\""
+    },
+    {
+      "name": "Song-óra",
+      "time": "21:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "TOMBOLA",
+      "time": "22:00",
+      "loc": "Kert",
+      "type": "tombola",
+      "desc": "Élő tombola sorsolás a támagatói tombolaszelvényel vásárlói között"
+    },
+    {
+      "name": "Kerti DJ-k",
+      "desc": "Mr. Fiel, In:Form, Tomanek, DRS, Bodoo",
+      "time": "23:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Dokkerman and the Turkeying Fellaz",
+      "time": "23:00",
+      "loc": "Nagyterem",
+      "image": "dokkerman.jpg",
+      "fb": "https://hu-hu.facebook.com/dokkerman/",
+      "desc": "\"A Dokkerman ugyanis funk, a funknak még abból a koszakából, amikor a funkys poprock csak valamiféle disztopikus rémálomnak tűnhetett.\"\n\n A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelez"
+    },
+    {
+      "name": "Gentry Sultan",
+      "time": "22:30",
+      "loc": "Kisterem",
+      "sound": "https://gentrysultan.bandcamp.com/",
+      "fb": "https://www.facebook.com/gentrysultan/"
+    },
+    {
+      "name": "The Best Bad Trip",
+      "time": "23:30",
+      "loc": "Kisterem",
+      "sound": "https://www.youtube.com/watch?v=AX54uq1NR24",
+      "fb": "https://www.facebook.com/TheBestBadtrip/",
+      "desc": "A főként húsz év körüli fiatalokból álló zenekarnak akár jelmondata lehetne, hogy ők játsszák a \"legmegbízhatatlanabb\" zenét, vagyis akármennyire is szórakoztató, ütős, vagy táncos egy éppen játszott téma, bármikor valami másba fordulhat át. \n\nZenéjükben egymást szorosan követik a kemény és lágy, az egyszerű és bonyolult, a rendezett és kaotikus, a keleti és nyugati atmoszférák. Ez egyrészt avantgárd, másrészt roppant szórakoztató. \n\nMivel a (The) Best Bad Trip tagjai főként jazz-t tanulnak, annak hagyományát felhasználva nagy szerepet kap az improvizáció. Ugyanakkor zenéjükre jellemző a sokszor bonyolult és igen összetett kompozciós szerkezet. \n\nA (The) Best Bad Trip a zenei egyenrangúságot tartja fő ideológiájának. Nekik a komolyzene komplexitása nem képvisel se több se kevesebb értéket, mint a punk zene egyszerű nyersessége. \n\nUgyanolyan szívesen építenek be zenéjükbe egy groove-os funky témát mint ahogy az irányított improvizációt és egyéb kortárs zenei stratégiát. Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt csinálják amit a legjobban szeretnek: zenélnek."
+    },
+    {
+      "name": "The Best Bad Trip",
+      "time": "23:30",
+      "loc": "Kisterem",
+      "sound": "https://www.youtube.com/watch?v=AX54uq1NR24",
+      "fb": "https://www.facebook.com/TheBestBadtrip/",
+      "desc": "A főként húsz év körüli fiatalokból álló zenekarnak akár jelmondata lehetne, hogy ők játsszák a \"legmegbízhatatlanabb\" zenét, vagyis akármennyire is szórakoztató, ütős, vagy táncos egy éppen játszott téma, bármikor valami másba fordulhat át. \n\nZenéjükben egymást szorosan követik a kemény és lágy, az egyszerű és bonyolult, a rendezett és kaotikus, a keleti és nyugati atmoszférák. Ez egyrészt avantgárd, másrészt roppant szórakoztató. \n\nMivel a (The) Best Bad Trip tagjai főként jazz-t tanulnak, annak hagyományát felhasználva nagy szerepet kap az improvizáció. Ugyanakkor zenéjükre jellemző a sokszor bonyolult és igen összetett kompozciós szerkezet. \n\nA (The) Best Bad Trip a zenei egyenrangúságot tartja fő ideológiájának. Nekik a komolyzene komplexitása nem képvisel se több se kevesebb értéket, mint a punk zene egyszerű nyersessége. \n\nUgyanolyan szívesen építenek be zenéjükbe egy groove-os funky témát mint ahogy az irányított improvizációt és egyéb kortárs zenei stratégiát. Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt csinálják amit a legjobban szeretnek: zenélnek."
+    },
+    {
+      "name": "Choose Cheese",
+      "time": "00:30",
+      "loc": "Kisterem",
+      "sound": "https://www.youtube.com/watch?v=vaUjgV5Ql-8",
+      "fb": "https://www.facebook.com/choosecheesehungary/",
+      "desc": "A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek."
+    },
+    {
+      "name": "DJ Kölyök",
+      "time": "00:30",
+      "loc": "Nagyterem"
+    },
+    {
+      "name": "Bogrács",
+      "time": "19:00 kb",
+      "loc": "Bogrács",
+      "desc": "Bádogdob / Haladó,\n Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával"
+    },
+    {
+      "name": "ROBUR Stúdió",
+      "time": "16:00",
+      "loc": "Robur",
+      "type": "radio",
+      "desc": "élő bejelentkezés a helyszínről"
+    }
+  ]
+}

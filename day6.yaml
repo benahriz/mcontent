@@ -1,6 +1,6 @@
 ---
 _id: day6
-_rev: 3-f4a99ea1ed293b340a237d8e845b52b7
+_rev: 10-36361826b030d0159ea781d8a1708b0e
 name: Reggae nap
 date: június 08, szerda
 events:
@@ -10,15 +10,13 @@ events:
 - name: Speakers Of Zion
   fb: https://www.facebook.com/speakersofzion
   image: speakersofzion.jpg
-  desc: |-
-    "REGGAE-DANCEHALL-DUB"
+  desc: '"REGGAE-DANCEHALL-DUB"'
   loc: Kert
   time: '19:30'
 - name: Ladánybene 27
   fb: https://www.facebook.com/Ladanybene27
   image: Ladanybene27.jpg
-  desc: |-
-    "Roots reggae, spirit & positive vibe!\nNew album - Offenzíva - www.lb27.hu!\n"
+  desc: '"Roots reggae, spirit & positive vibe!\nNew album - Offenzíva - www.lb27.hu!\n"'
   loc: Kert
   time: '21:00'
 - name: TOMBOLA
@@ -54,11 +52,9 @@ events:
   time: '23:00'
   fb: https://www.facebook.com/153836944657054
   image: 153836944657054.jpg
-  desc: |-
-    Genüma is a psychedelic-electronic music composer, producer from Budapest, Hungary. 
-    
-    He is also a member of several Budapest-based experimental musical projects/bands.
-    
+  desc: "Genüma is a psychedelic-electronic music composer, producer from Budapest,
+    Hungary. \n\nHe is also a member of several Budapest-based experimental musical
+    projects/bands."
   sound: http://www.mixcloud.com/genuma
 - name: Ohmikron
   loc: Room 041
@@ -79,6 +75,25 @@ events:
 - name: Bogrács
   loc: Kert
   type: bogracs
-  time: '19:00 kb.'
+  time: 19:00 kb.
   desc: Híresek/Raszta paszta (vegetarian delight)\n, Szex-Akció Hírcsoport/Káposztás
     kondér
+_attachments:
+  153836944657054.jpg:
+    content_type: image/jpeg
+    revpos: 10
+    digest: md5-FLuek+RmNhXYfEov4wu6ng==
+    length: 6929
+    stub: true
+  speakersofzion.jpg:
+    content_type: image/jpeg
+    revpos: 9
+    digest: md5-5RWFBZ4A197/6LvD2cNmwQ==
+    length: 36304
+    stub: true
+  Ladanybene27.jpg:
+    content_type: image/jpeg
+    revpos: 8
+    digest: md5-GoWLUB81hL0AlDJkkuFr8Q==
+    length: 19665
+    stub: true

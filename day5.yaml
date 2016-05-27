@@ -1,6 +1,6 @@
 ---
 _id: day5
-_rev: 2-26f409e03084d25d1e9e027ca5fe05bd
+_rev: 4-687e67115af8a1fe70a9600f8e3f45c3
 name: Szabad Nap
 date: június 7, kedd
 events:
@@ -21,7 +21,7 @@ events:
 - name: TOMBOLA Special
   time: '22:00'
   loc: Kert
-- name: DubSmile 
+- name: DubSmile
   desc: DubSmile SpeedMaraton in da Garden
   fb: https://www.facebook.com/DubSmile-579054428773646/
   time: '23:00'
@@ -54,7 +54,8 @@ events:
   time: '20:00'
   loc: Room 041
 - name: Film
-  desc:  Meleg Férfiak, Hideg Diktatúrák  (színes, magyar dokumentumfilm, 90 perc, 2015)
+  desc: Meleg Férfiak, Hideg Diktatúrák  (színes, magyar dokumentumfilm, 90 perc,
+    2015)
   time: '20:30'
   loc: Room 041
 - name: Mesterházy
@@ -67,9 +68,9 @@ events:
   time: '02:00'
   loc: Room 041
 - name: FMXXX pop up peep show studio az ikarusban
-  time: '16:00-20:00'
+  time: 16:00-20:00
   desc: Felnőtt tartalom pénzadományért cserébe
   loc: IKARUS
 - name: BOGRÁCS
-  time: '19:00' 
+  time: '19:00'
   desc: Kolorlokál/Cajun Gumbo, Bádogdob/Haladó/Babgulyás

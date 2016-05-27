@@ -20,23 +20,12 @@ events:
 - name: "Óperentzia"
   time: '20:30'
   loc: Kert
-  fb: https://www.facebook.com/operentzia
-  desc: |-
-  Az Óperentzia 2005-ben alakult, nevét a hazai népmesék elképzelt vidékétől kölcsönözte.
-  
-  Bemutatkozó anyaguk 2008-ban jelent meg, melyet 2009-ben követett a One Week című album, 2010-ben jelent meg a zenekar harmadik nagylemeze a Mr.Hat.
-  
-  2011-től kollaborálnak a Freak Fusion Cabaret előadóival, számtalan fellépést követően rögzítettek néhány számot a műsorhoz írt dalok közül, ez lett a Freak Circus Combo című kislemez.
-  image: operentzia.jpg
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
 - name: Agavoid
   time: '20:00'
   loc: Kisterem
-  fb: https://www.facebook.com/agavoid
-  desc: Agavoid is a Hungarian experimental outfit consisting Kristóf Huszár, Dalma Tamara Puskás and Bálint Kriska.
-  sound: https://agavoid.bandcamp.com/releases
 - name: Freakin' Disco
   time: '21:00'
   loc: Kisterem

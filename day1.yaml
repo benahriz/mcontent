@@ -1,6 +1,6 @@
 ---
 _id: day1
-_rev: 25-c49e12f5b64e146c252afbc958ddb8d4
+_rev: 27-ca29b53de20204abe909d35b718d1717
 name: Jazz nap
 date: június 3, péntek
 fb: https://www.facebook.com/events/1357978594218682
@@ -103,17 +103,20 @@ events:
   loc: Kisterem
   sound: https://www.youtube.com/watch?v=vaUjgV5Ql-8
   fb: https://www.facebook.com/choosecheesehungary/
-  desc: "A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek."
+  desc: A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban
+    hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként
+    saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek.
 - name: DJ Kölyök
   time: '00:30'
   loc: Nagyterem
 - name: Bogrács
-  time: '19:00 kb'
+  time: 19:00 kb
   loc: Bogrács
-  desc: "Bádogdob / Haladó,\n Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával"
+  desc: |-
+    Bádogdob / Haladó,
+     Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával
 - name: ROBUR Stúdió
   time: '16:00'
   loc: Robur
   type: radio
   desc: "élő bejelentkezés a helyszínről"
-

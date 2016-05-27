@@ -1,0 +1,119 @@
+{
+  "_id": "day5",
+  "_rev": "4-687e67115af8a1fe70a9600f8e3f45c3",
+  "name": "Szabad Nap",
+  "date": "június 7, kedd",
+  "events": [
+    {
+      "name": "Dr. Analog",
+      "time": "16:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Györemix! & Direct",
+      "time": "18:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Gazsi Rap Show",
+      "time": "19:00",
+      "loc": "Kert",
+      "sound": "https://www.youtube.com/watch?v=d3Pn8rz2dzQ",
+      "fb": "https://www.facebook.com/Gazsi-Rap-Show-514405815345173"
+    },
+    {
+      "name": "MUSHU",
+      "loc": "Kert",
+      "time": "21:00"
+    },
+    {
+      "name": "TOMBOLA Special",
+      "time": "22:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "DubSmile",
+      "desc": "DubSmile SpeedMaraton in da Garden",
+      "fb": "https://www.facebook.com/DubSmile-579054428773646/",
+      "time": "23:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "After",
+      "loc": "Kert",
+      "time": "04:00"
+    },
+    {
+      "name": "Dj. Slicz",
+      "time": "23:00",
+      "loc": "Nagyterem"
+    },
+    {
+      "name": "Zvezda Beta",
+      "time": "20:00",
+      "loc": "Zvezda Beta"
+    },
+    {
+      "name": "Kyliga Dalen",
+      "time": "20:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "For Good",
+      "time": "21:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "THE TAKTIKA",
+      "time": "23:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Elektrik Wale",
+      "time": "00:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Drünken Bastards",
+      "time": "01:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Cökxpon Archiv Set",
+      "time": "20:00",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Film",
+      "desc": "Meleg Férfiak, Hideg Diktatúrák  (színes, magyar dokumentumfilm, 90 perc, 2015)",
+      "time": "20:30",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Mesterházy",
+      "time": "23:00",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Peter Bernath",
+      "time": "00:30",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Garpo",
+      "time": "02:00",
+      "loc": "Room 041"
+    },
+    {
+      "name": "FMXXX pop up peep show studio az ikarusban",
+      "time": "16:00-20:00",
+      "desc": "Felnőtt tartalom pénzadományért cserébe",
+      "loc": "IKARUS"
+    },
+    {
+      "name": "BOGRÁCS",
+      "time": "19:00",
+      "desc": "Kolorlokál/Cajun Gumbo, Bádogdob/Haladó/Babgulyás"
+    }
+  ]
+}

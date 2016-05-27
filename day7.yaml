@@ -1,6 +1,6 @@
 ---
 _id: day7
-_rev: 16-ace397a6b0a059849ab120f0e919f31d
+_rev: 18-a354810ad70e5e4749cf3d73fd05b3db
 name: Bringa nap
 date: június 9, csütörtök
 events:
@@ -81,3 +81,16 @@ events:
   desc: |-
     dj Zotyka: Mekkragu
     Tilos Selection: Sinkó Bori raguja (hús nélkül)
+_attachments:
+  thesilvershine.jpg:
+    content_type: image/jpeg
+    revpos: 18
+    digest: md5-+HrsK7kD2b/lhH4jQiJgUA==
+    length: 36629
+    stub: true
+  Makrohang.jpg:
+    content_type: image/jpeg
+    revpos: 17
+    digest: md5-For7yOAEsfHUn15DfPgy2Q==
+    length: 5873
+    stub: true

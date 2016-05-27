@@ -1,0 +1,125 @@
+{
+  "_id": "day2",
+  "_rev": "12-36a1f3b886ccb0c308787f91fb618642",
+  "name": "Pszichedelikus nap",
+  "date": "június 4, szombat",
+  "events": [
+    {
+      "name": "DJ Sanyi",
+      "time": "16:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Burkus Kőnig",
+      "time": "18:00",
+      "loc": "Kert",
+      "desc": "2010-ben a tehetséges drezdai dub művész Bruno Mayer rögtön zenészeket kezdett keresni, amint Budapestre költözött, szerencsére meg is találta zenekarát, ami egy érzékeny, groove -os ritmusszekció (dob, nagybőgő) kiegészülve egy klasszikus zongora, cselló párral, megfűszerezve karizmatikus gitárokkal, énekekkel és azokkal a csodás visszhangokkal...\n\nIdőközben Bruno távozott a bandából és a helyét Zeze vette át, aki ugyanolyan varázslatos érzékkel rendelkezik a dub mixeléssel kapcsolatban, mint Bruno, így méltó utódra talált benne a zenekar."
+    },
+    {
+      "name": "Uzgin Űver",
+      "time": "19:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Óperentzia",
+      "time": "20:30",
+      "loc": "Kert"
+    },
+    {
+      "name": "TOMBOLA",
+      "time": "22:00",
+      "loc": "Kert"
+    },
+    {
+      "name": "Agavoid",
+      "time": "20:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Freakin' Disco",
+      "time": "21:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Psyporn",
+      "time": "23:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Interflug, Oleg",
+      "type": "DJ",
+      "time": "00:00",
+      "loc": "Kisterem"
+    },
+    {
+      "name": "Korai Trancemission",
+      "time": "23:00",
+      "loc": "Nagyterem"
+    },
+    {
+      "name": "Zubzub (UK)",
+      "time": "00:30",
+      "loc": "Nagyterem"
+    },
+    {
+      "name": "DJ Titusz",
+      "time": "02:00",
+      "loc": "Nagyterem"
+    },
+    {
+      "name": "Buharov",
+      "time": "23:00",
+      "type": "DJ",
+      "loc": "Kert"
+    },
+    {
+      "name": "Bahama Káosz",
+      "time": "01:00",
+      "type": "DJ",
+      "loc": "Kert"
+    },
+    {
+      "name": "Adam Salman",
+      "time": "03:00",
+      "type": "DJ",
+      "loc": "Kert"
+    },
+    {
+      "name": "Papa & Alagi",
+      "time": "21:00",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Pigment Chemcal Live",
+      "time": "23:00",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Urenga Live",
+      "time": "00:00",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Brian Grassfield Live+Djset",
+      "time": "01:30",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Nasca",
+      "time": "03:30",
+      "loc": "Room 041"
+    },
+    {
+      "name": "Bogrács",
+      "time": "18:00",
+      "desc": "Bádogdob/Haladó\nPergő Képek/Haza és Haladás - Chilis bab",
+      "loc": "Bogrács"
+    },
+    {
+      "name": "Thai Masszázs",
+      "time": "17:00-22:00",
+      "loc": "Room 041",
+      "desc": "MASSZŐRÖK: Zlatzky Anna - Kahi Healing, Balogh Bence - Rhythm and Flow kezelés, Kvantumgyógyítás, Nagy Krisztina - Thai masszázs, Biodinamikus Craniosacralis Terápia, Nagyistván Gábor - Kristály Terápia, Annna - Dinamikus Thai Masszázs"
+    }
+  ]
+}

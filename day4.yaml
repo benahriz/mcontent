@@ -1,6 +1,6 @@
 ---
 _id: day4
-_rev: 1-2353cf10184652b81ba95bc14c977974
+_rev: 13-6fc7fecba0278d8725e21ad321256175
 name: Népzene nap
 date: június 6, hétfő
 events:
@@ -12,7 +12,8 @@ events:
   loc: Kert
   url: http://www.cirkuszka.com/
   fb: https://www.facebook.com/CirkuszKA/
-  desc: The sensuality of Fado with the energy of Tango.Inspired by the diversity of music throughout the world.Born of their their cultural roots, native Hungary.
+  desc: The sensuality of Fado with the energy of Tango.Inspired by the diversity
+    of music throughout the world.Born of their their cultural roots, native Hungary.
   image: cirkuszka.jpg
 - name: DJ Qtewly
   loc: Kert
@@ -23,12 +24,13 @@ events:
 - name: Góbé zenekar
   fb: https://www.facebook.com/GobeZenekar
   image: gobe.jpg
-  desc: |-
-     A hattagú budapesti Góbé zenekar a Kárpát-medencei népzenei hagyományt szabadon variálja, lazán és izgalmasan kapcsolja a jazz, a blues, a reggae és a klasszikus zene elemeivel. 
-     
-     Dalaik arányérzékről, iróniáról tanúskodnak, jól kihasználják a különböző műfajokban rejlő energiákat, hangulatokat. 
-     
-     Egyaránt otthonosan mozognak a belvárosi klubokban, táncházakban és a fesztiválokon. Produkciójuk népzenének nem elég autentikus, könnyűzenének túl folkos, s a komolyzenei hatások miatt pedig végképp besorolhatatlan. 
+  desc: "A hattagú budapesti Góbé zenekar a Kárpát-medencei népzenei hagyományt szabadon
+    variálja, lazán és izgalmasan kapcsolja a jazz, a blues, a reggae és a klasszikus
+    zene elemeivel. \n\nDalaik arányérzékről, iróniáról tanúskodnak, jól kihasználják
+    a különböző műfajokban rejlő energiákat, hangulatokat. \n\nEgyaránt otthonosan
+    mozognak a belvárosi klubokban, táncházakban és a fesztiválokon. Produkciójuk
+    népzenének nem elég autentikus, könnyűzenének túl folkos, s a komolyzenei hatások
+    miatt pedig végképp besorolhatatlan. "
   time: '22:00'
 - name: TOMBOLA
   loc: Kert
@@ -50,4 +52,31 @@ events:
   time: '21:00'
 - name: BOGRÁCS
   time: '19:00'
-  desc: 'Bornemissza Anna 1680-as kiadású szakácskönyvéből Szőke András főz. Bogrács 1: Erdélyi savanyú malachús fehér cseresznyével Bogrács 2: Erdélyi bőséges zöldséges leves kecskesavóval'
+  desc: 'Bornemissza Anna 1680-as kiadású szakácskönyvéből Szőke András főz. Bogrács
+    1: Erdélyi savanyú malachús fehér cseresznyével Bogrács 2: Erdélyi bőséges zöldséges
+    leves kecskesavóval'
+_attachments:
+  gobe.jpg:
+    content_type: image/jpeg
+    revpos: 12
+    digest: md5-M+1XWfyIuf1WgA59UCM3aw==
+    length: 43016
+    stub: true
+  cirkuszka.jpg:
+    content_type: image/jpeg
+    revpos: 10
+    digest: md5-e43sMKaYz9/mZEb+0tt4Ew==
+    length: 21519
+    stub: true
+  parapacs.jpg:
+    content_type: image/jpeg
+    revpos: 9
+    digest: md5-p/3JPI/41Ex309QKDL1EUA==
+    length: 19388
+    stub: true
+  babra.jpg:
+    content_type: image/jpeg
+    revpos: 8
+    digest: md5-bP8bqrcDwFbmix9JV7EeKQ==
+    length: 190815
+    stub: true

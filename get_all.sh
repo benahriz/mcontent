@@ -1,0 +1,9 @@
+./get.sh day1
+./get.sh day2
+./get.sh day3
+./get.sh day4
+./get.sh day5
+./get.sh day6
+./get.sh day7
+./get.sh day8
+./get.sh day9

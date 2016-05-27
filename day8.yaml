@@ -1,6 +1,6 @@
 ---
 _id: day8
-_rev: 2-770a8a13677530b5cf87d8707751ec9e
+_rev: 3-9ce1a185601af8dafa4de57727a99c40
 name: Roma nap
 date: június 10, péntek
 events:
@@ -15,9 +15,11 @@ events:
 - name: Hagyományörzők
   loc: Kert
   time: '18:00'
-  desc: Teleki József Álltalános Iskola hagyományőrző csoportja (A sziráki nemzetiségi iskola tehetségei)
+  desc: Teleki József Álltalános Iskola hagyományőrző csoportja (A sziráki nemzetiségi
+    iskola tehetségei)
 - name: Főzőverseny
-  desc: A főzőverseny ünnepelyés kóstoltatása, bemutatkoznak a versenyzők és a rettegett zsűri. Eredményhirdetés a tombola alatt! 
+  desc: A főzőverseny ünnepelyés kóstoltatása, bemutatkoznak a versenyzők és a rettegett
+    zsűri. Eredményhirdetés a tombola alatt!
   time: '19:30'
 - name: Dromara
   loc: Kert
@@ -26,11 +28,7 @@ events:
   loc: Kert
   time: '22:00'
 - name: Kerti DJk
-  desc: -|
-    Suefo
-    Ordiman
-    Nafta
-    Szefi?
+  desc: "-| Suefo Ordiman Nafta Szefi?"
   time: '23:00'
   loc: Kert
 - name: Khamoro Budapest Band  (40p)
@@ -43,9 +41,8 @@ events:
   time: '01:30'
   loc: Nagyterem
 - name: Half Note City
-  loc: Half Note City
-  time: '20:00'
   loc: Nagyterem
+  time: '20:00'
 - name: Pigeoncoma
   time: '21:00'
   loc: Nagyterem
@@ -67,4 +64,3 @@ events:
 - name: River Of Lust
   time: '00:30'
   loc: Room 041
-
