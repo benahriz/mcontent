@@ -3,6 +3,7 @@ _id: day2
 _rev: 12-36a1f3b886ccb0c308787f91fb618642
 name: Pszichedelikus nap
 date: június 4, szombat
+fb: https://www.facebook.com/events/1715245982069953/
 events:
 - name: DJ Sanyi
   time: '16:00'
