@@ -1,6 +1,6 @@
 ---
 _id: day1
-_rev: 27-ca29b53de20204abe909d35b718d1717
+_rev: 29-52b8bcff96bc992a0b972beccc310a22
 name: Jazz nap
 date: június 3, péntek
 fb: https://www.facebook.com/events/1357978594218682
@@ -78,26 +78,6 @@ events:
     Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
     ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
     csinálják amit a legjobban szeretnek: zenélnek."
-- name: The Best Bad Trip
-  time: '23:30'
-  loc: Kisterem
-  sound: https://www.youtube.com/watch?v=AX54uq1NR24
-  fb: https://www.facebook.com/TheBestBadtrip/
-  desc: "A főként húsz év körüli fiatalokból álló zenekarnak akár jelmondata lehetne,
-    hogy ők játsszák a \"legmegbízhatatlanabb\" zenét, vagyis akármennyire is szórakoztató,
-    ütős, vagy táncos egy éppen játszott téma, bármikor valami másba fordulhat át.
-    \n\nZenéjükben egymást szorosan követik a kemény és lágy, az egyszerű és bonyolult,
-    a rendezett és kaotikus, a keleti és nyugati atmoszférák. Ez egyrészt avantgárd,
-    másrészt roppant szórakoztató. \n\nMivel a (The) Best Bad Trip tagjai főként jazz-t
-    tanulnak, annak hagyományát felhasználva nagy szerepet kap az improvizáció. Ugyanakkor
-    zenéjükre jellemző a sokszor bonyolult és igen összetett kompozciós szerkezet.
-    \n\nA (The) Best Bad Trip a zenei egyenrangúságot tartja fő ideológiájának. Nekik
-    a komolyzene komplexitása nem képvisel se több se kevesebb értéket, mint a punk
-    zene egyszerű nyersessége. \n\nUgyanolyan szívesen építenek be zenéjükbe egy groove-os
-    funky témát mint ahogy az irányított improvizációt és egyéb kortárs zenei stratégiát.
-    Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
-    ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
-    csinálják amit a legjobban szeretnek: zenélnek."
 - name: Choose Cheese
   time: '00:30'
   loc: Kisterem
@@ -120,3 +100,16 @@ events:
   loc: Robur
   type: radio
   desc: "élő bejelentkezés a helyszínről"
+_attachments:
+  dokkerman.jpg:
+    content_type: image/jpeg
+    revpos: 29
+    digest: md5-TWJppUXeJ5ZR9coCVjK6KQ==
+    length: 40874
+    stub: true
+  bazsinka.jpg:
+    content_type: image/jpeg
+    revpos: 28
+    digest: md5-pkBX7p5K/XmEYYXKhy5xUA==
+    length: 74506
+    stub: true
