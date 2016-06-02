@@ -55,12 +55,13 @@ events:
   time: '16:00-23:00'
   loc: Robur
   type: radio
-    desc: élő bejelentkezés a helyszínről:
-  napközben: gyerekhírek, gyerekműsorok
-  később: Szex-Akció Hírcsoport
+  desc: |-
+    élő bejelentkezés a helyszínről:
+    napközben: gyerekhírek, gyerekműsorok
+    később: Szex-Akció Hírcsoport
 - name: Bogrács
   time: '15:30-20:30'
   loc: Bogrács
   desc: |-
-  Látszótér: Szentmihályi lecsó
-  Népzene: Vega Jambalaya
+     Látszótér: Szentmihályi lecsó
+     Népzene: Vega Jambalaya

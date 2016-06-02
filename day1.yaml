@@ -93,13 +93,12 @@ events:
   loc: Bogrács
   desc: |-
     Bádogdob/Haladó: Csülökpörkölt
-     Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával
+    Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával
 - name: ROBUR Stúdió
   time: '16:00'
   loc: Robur
   type: radio
-  desc: Pergő képek / Haza és haladás: Maraton Kick-off
-  élő bejelentkezés a helyszínről
+  desc: "Pergő képek / Haza és haladás: Maraton Kick-off, élő bejelentkezés a helyszínről"
 _attachments:
   dokkerman.jpg:
     content_type: image/jpeg
