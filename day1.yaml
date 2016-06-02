@@ -9,13 +9,10 @@ events:
   time: '14:00'
   loc: Kert
 - name: Marzipan B
-  time: '17:00'
+  time: '18:00'
   loc: Kert
   desc: |-
-    A Marzipan B élő hangszeres és énekes ze ne, hangsúlyos kórusokkal. Érzelmeketközvetít, nem akar többet mutatni.
-
-    Nőies és férfias, lágy, de néhol kemény  igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi
-     popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból."
+    A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeketközvetít, nem akar többet mutatni. Nőies és férfias, lágy, de néhol kemény  igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból."
   url: https://hu-hu.facebook.com/marzipanb
   logo: marczipan.png
 - name: Bazsinka Mihály Quartet
@@ -45,7 +42,7 @@ events:
   time: '23:00'
   loc: Kert
 - name: Dokkerman and the Turkeying Fellaz
-  time: '23:00'
+  time: '23:30'
   loc: Nagyterem
   image: dokkerman.jpg
   fb: https://hu-hu.facebook.com/dokkerman/
@@ -93,13 +90,14 @@ events:
   time: 19:00 kb
   loc: Bogrács
   desc: |-
-    Bádogdob / Haladó,
+    Bádogdob/Haladó: Csülökpörkölt
      Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával
 - name: ROBUR Stúdió
   time: '16:00'
   loc: Robur
   type: radio
-  desc: "élő bejelentkezés a helyszínről"
+  desc: Pergő képek / Haza és haladás: Maraton Kick-off
+  élő bejelentkezés a helyszínről
 _attachments:
   dokkerman.jpg:
     content_type: image/jpeg
