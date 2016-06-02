@@ -3,6 +3,7 @@ _id: day3
 _rev: 4-a045911054d9f80a4e6787f651754ee0
 name: Családi és komolyzene nap
 date: június 5, vasárnap
+fb: https://www.facebook.com/events/1766422643603421/
 events:
 - name: Soup Színház bábelőadás
   time: '16:00'
@@ -10,29 +11,31 @@ events:
 - name: Rutkai Bori Banda
   time: '16:30'
   loc: Kert
+  fb: https://www.facebook.com/rutkaiboribanda/
+  desc: 'A zenekar a Vacka Rádió-mesejáték dalaival vált ismertté. 2009-ben jelent meg első lemezük Vacka dalok címmel. A koncertműsor idővel egyre több ötlettel, játékkal, színházi elemmel gazdagodott. Rutkai Bori, aki aktív képzőművészként, a Budapest Bár egyik énekeseként, valamint saját zenekara, a Specko Jedno révén is ismerős lehet a közönség számára, a gyerekkoncerteken saját kezűleg készített bábjaival, kellékeivel kelti életre a mesedalokat.'
 - name: TOMBOLA
   time: '19:00'
   loc: Kert
 - name: J. S. Bach végtelen kánonjai
-  desc: 'Játsszák: Songoro Fatime, László Lilla, Krokovay Nóra, Rudas Szilvia, Lőrinczy
-    Dániel, Égető Emese'
+  desc: 'Játsszák: Songoro Fatime, László Lilla, Krokovay Nóra, Rudas Szilvia, Lőrinczy Dániel, Égető Emese'
   loc: Kert
   time: '20:00'
-- name: 'No Wave Est: Kisgyörgy Ilka + Én'
-  desc: 'Kisgyögry Ilka: ének, Én: Kihangosított tárgyak, elektronika'
+- name: 'No Wave Est'
+  desc: 'Kisgyörgy Ilka (ének) & Schtrausz Ági (kihangosított tárgyak, elektronika)'
   loc: Kisterem
   time: '21:00'
 - name: 'No Wave Est: Oli Mayne, Sőrés Zsolt'
-  desc: 'Ily Mayne: elektronika, Sőrés Zsolt: 5 húrus mélyhegedű, elektronika'
+  desc: 'Oli Mayne (elektronika) & Sőrés Zsolt (5 húros mélyhegedű, elektronika)'
   loc: Kisterem
   time: '22:00'
 - name: 'No Wave Est: Tijana Sankovic, Bolcsó Bálint'
-  desc: 'Tijana Sankovic: hegedű, Bolcsó Bálint: elektronika'
+  desc: 'Tijana Stanković (hegedű) & Bolcsó Bálint (elektronika)'
   loc: Kisterem
   time: '23:00'
 - name: Inspirál Cirkuszközpont játszóháza
   loc: Kert
-  time: 14:00-tól
+  time: '17:30'
+  fb: https://www.facebook.com/INspiralkozpont/
   desc: kézművesfoglalkozás, agyagozás, bringabelső újrahosznosítás
 - name: beugroDj & FranKut
   time: '14:00'
@@ -40,13 +43,24 @@ events:
 - name: Nizar & Shuhaid
   time: '17:30'
   loc: Kert
+  fb: https://www.facebook.com/djsuhaid/
 - name: HNP Minich es Sinko
   time: '22:00'
   loc: Kert
+  fb: https://www.facebook.com/sinkonvc/
 - name: gyereknapi hírmondó workshop
   desc: Próbáld ki magad mese vagy hírolvasásban! Nem csak gyerekeknek
-  time: 15:00-tól
-- name: BOGRÁCS
-  desc: Látszótér - latszoter.hu/Szentmihályi lecsó, Népzene/Vega Jambalaya
-  location: Kert
-  time: '19:00'
+  time: '15:00'
+- name: ROBUR Stúdió
+  time: '16:00-23:00'
+  loc: Robur
+  type: radio
+    desc: élő bejelentkezés a helyszínről:
+  napközben: gyerekhírek, gyerekműsorok
+  később: Szex-Akció Hírcsoport
+- name: Bogrács
+  time: '15:30-20:30'
+  loc: Bogrács
+  desc: |-
+  Látszótér: Szentmihályi lecsó
+  Népzene: Vega Jambalaya
