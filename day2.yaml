@@ -11,28 +11,53 @@ events:
 - name: Burkus Kőnig
   time: '18:00'
   loc: Kert
+  fb: https://www.facebook.com/BurkusKoenig/
   desc: |-
     2010-ben a tehetséges drezdai dub művész Bruno Mayer rögtön zenészeket kezdett keresni, amint Budapestre költözött, szerencsére meg is találta zenekarát, ami egy érzékeny, groove -os ritmusszekció (dob, nagybőgő) kiegészülve egy klasszikus zongora, cselló párral, megfűszerezve karizmatikus gitárokkal, énekekkel és azokkal a csodás visszhangokkal...
 
     Időközben Bruno távozott a bandából és a helyét Zeze vette át, aki ugyanolyan varázslatos érzékkel rendelkezik a dub mixeléssel kapcsolatban, mint Bruno, így méltó utódra talált benne a zenekar.
 - name: Uzgin Űver
-  time: '19:00'
+  time: '19:30'
   loc: Kert
+  fb: https://www.facebook.com/%C3%9Azgin-%C5%B0ver-182655308446372/
+  desc: |-
+    Az Úzgin ma a világ bármelyik fesztiválján felléphetne, akár world, akár etnó, folk, progresszív, trance vagy pszichodélikus műfajban, ugyanúgy hoznák a frissítő táncszerűséget a kőkemény, akár Mongóliáig is visszanyúló tudatalattiból kerekedő tudattal, annak hangjaival, énekeivel.
 - name: "Óperentzia"
-  time: '20:30'
+  time: '21:00'
   loc: Kert
+  fb: https://www.facebook.com/operentzia/
+  desc: |-
+   Az Óperentzia 2005-ben alakult, nevét a hazai népmesék elképzelt vidékétől kölcsönözte.
+Bemutatkozó anyaguk 2008-ban jelent meg, melyet 2009-ben követett a One Week című album, 2010-ben jelent meg a zenekar harmadik nagylemeze a Mr.Hat.
+2011-től kollaborálnak a Freak Fusion Cabaret előadóival, számtalan fellépést követően rögzítettek néhány számot a műsorhoz írt dalok közül, ez lett a Freak Circus Combo című kislemez.
+2015-ben jelenik meg a zenekar soron következő albuma a Trance Ober Enz, melyet egy szibériai archív népdal
+gyűjtemény ihletett. Az autentikus népi énekek köré dub, chill és trance műfajokból táplálkozó sajátos zenei világ épült.
+Tagok: Bánházi Gábor - dobok, elektronika, Domokos Tibor - szintik, vokál 
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
 - name: Agavoid
   time: '20:00'
   loc: Kisterem
+  fb: https://www.facebook.com/agavoid/
+  desc: |-
+  Agavoid is a Hungarian experimental outfit consisting Kristóf Huszár, Dalma Tamara Puskás and Bálint Kriska.
 - name: Freakin' Disco
   time: '21:00'
   loc: Kisterem
+  fb: https://www.facebook.com/freakindisco/
+  desc: |-
+  psychojazz
+Gábor Keresztes - keys, samples, scratch, electronics
+Áron Komjáti - guitar, effects
+András Csizmás - double bass, electronics
+Ágoston Szabó Sipos - drums 
 - name: Psyporn
   time: '23:00'
   loc: Kisterem
+  fb: https://www.facebook.com/PsyPornBand/
+  desc: |-
+  A PsyPorn akusztikus-elektronikus zenét játszik. Élőben szintik és gitárok loopolásával, basszusgitárral és dobbal alkotják meg azt a fúziót, mely a psybient, dubstep, techno és drum'n'bass világát idézve egy rendhagyó egyveleget képez. A zenével összehangoltan VJ-zés szolgáltatja látványt.
 - name: Interflug, Oleg
   type: DJ
   time: '00:00'
@@ -40,17 +65,30 @@ events:
 - name: Korai Trancemission
   time: '23:00'
   loc: Nagyterem
-- name: Zubzub (UK)
-  time: '00:30'
-  loc: Nagyterem
+  fb: https://www.facebook.com/koraitrancemission/
+  desc: |-
+  New psychedelic, tribal ethno-trance project of the members of Korai Öröm band. 
+  Viktor Csányi, drums 
+János Jócsik, percussion 
+Andor Kovács, guitar 
+Miklós Paizs, jew's harp, fuyara, khoomei throat singing 
+Zsolt Iványi, keyboards 
+Tibor Domokos, keyboards 
+Zoltán Kilián, bass guitar
+Gábor Bánházi, sound engineer
 - name: DJ Titusz
-  time: '02:00'
+  time: '01:00'
   loc: Nagyterem
+  fb: https://www.facebook.com/djtitusz/
+- name: Bahama Káosz
+  time: '16:00'
+  type: DJ
+  loc: Kert
 - name: Buharov
   time: '23:00'
   type: DJ
   loc: Kert
-- name: Bahama Káosz
+- name: Sanyi
   time: '01:00'
   type: DJ
   loc: Kert
@@ -74,14 +112,20 @@ events:
   time: '03:30'
   loc: Room 041
 - name: Bogrács
-  time: '18:00'
+  time: '15:30 - 20:30'
   desc: |-
-    Bádogdob/Haladó
-    Pergő Képek/Haza és Haladás - Chilis bab
+  Hallgatók: Indiai vega
+  Tordas Rádió: Frissen, tölgyfán füstölt makréla hordóból, görög salátával
   loc: Bogrács
-- name: Thai Masszázs
-  time: 17:00-22:00
+- name: ROBUR Stúdió
+  time: '16:00-23:00'
+  loc: Robur
+  type: radio
+  desc: |-
+  Cambalache: Latinoamerica Psicodelica Gabriel Dumbuc-kal, keleti transz-technikák
+  Bahama Káosz és vendégei
+  élő bejelentkezés a helyszínről
+- name: Masszázs
+  time: '17:00-22:00'
   loc: Room 041
-  desc: 'MASSZŐRÖK: Zlatzky Anna - Kahi Healing, Balogh Bence - Rhythm and Flow kezelés,
-    Kvantumgyógyítás, Nagy Krisztina - Thai masszázs, Biodinamikus Craniosacralis
-    Terápia, Nagyistván Gábor - Kristály Terápia, Annna - Dinamikus Thai Masszázs'
+  desc: 'MASSZŐRÖK: Zlatzky Anna - Kahi Healing, Balogh Bence - Rhythm and Flow kezelés, Kvantumgyógyítás, Nagy Krisztina - Thai masszázs, Biodinamikus Craniosacralis Terápia, Nagyistván Gábor - Kristály Terápia'
