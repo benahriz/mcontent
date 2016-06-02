@@ -13,7 +13,7 @@ events:
   loc: Kert
   desc: |-
     A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeketközvetít, nem akar többet mutatni. Nőies és férfias, lágy, de néhol kemény  igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból."
-  url: https://hu-hu.facebook.com/marzipanb
+  fb: https://hu-hu.facebook.com/marzipanb
   logo: marczipan.png
 - name: Bazsinka Mihály Quartet
   time: '19:00'
@@ -23,6 +23,7 @@ events:
 - name: Vár Be Q
   time: '20:00'
   loc: Kert
+  fb: https://www.facebook.com/varbeq/
   desc: |-
     A Vár Be Q zenekar 2015 elején alakult. Főként Várallyay Benedek saját szerzeményeit játsszák közösen kialakított koncepció szerint.
 
@@ -32,6 +33,7 @@ events:
 - name: Song-óra
   time: '21:00'
   loc: Kert
+  fb: https://www.facebook.com/fatime.song.ora/
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
