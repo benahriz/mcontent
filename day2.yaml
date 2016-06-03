@@ -118,9 +118,9 @@ events:
   loc: Room 041
 - name: Bogrács
   time: 15:30 - 20:30
-  desc: ''
-  Hallgatók: Indiai vega
-  Tordas Rádió: Halpaprikás
+  desc: |-
+    Hallgatók: Indiai vega
+    Tordas Rádió: Halpaprikás
   loc: Bogrács
 - name: ROBUR Stúdió
   time: 16:00-23:00

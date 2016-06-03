@@ -1,6 +1,6 @@
 ---
 _id: day1
-_rev: 29-52b8bcff96bc992a0b972beccc310a22
+_rev: 31-6c5919fa81bbe4870431fbfd15263b2f
 name: Jazz nap
 date: június 3, péntek
 fb: https://www.facebook.com/events/1357978594218682
@@ -11,8 +11,10 @@ events:
 - name: Marzipan B
   time: '18:00'
   loc: Kert
-  desc: |-
-    A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeketközvetít, nem akar többet mutatni. Nőies és férfias, lágy, de néhol kemény  igazságtartalmú sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi popdalokból, a progresszív rockból, az elektronikus és jazzes irányzatokból."
+  desc: A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeketközvetít,
+    nem akar többet mutatni. Nőies és férfias, lágy, de néhol kemény  igazságtartalmú
+    sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi popdalokból, a progresszív
+    rockból, az elektronikus és jazzes irányzatokból."
   fb: https://hu-hu.facebook.com/marzipanb
   logo: marczipan.png
 - name: Bazsinka Mihály Quartet
@@ -98,7 +100,7 @@ events:
   time: '16:00'
   loc: Robur
   type: radio
-  desc: "Pergő képek / Haza és haladás: Maraton Kick-off, élő bejelentkezés a helyszínről"
+  desc: 'Pergő képek / Haza és haladás: Maraton Kick-off, élő bejelentkezés a helyszínről'
 _attachments:
   dokkerman.jpg:
     content_type: image/jpeg
