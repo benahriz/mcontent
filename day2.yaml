@@ -130,6 +130,10 @@ events:
     Cambalache: Latinoamerica Psicodelica Gabriel Dumbuc-kal, keleti transz-technikák
     Bahama Káosz és vendégei
     élő bejelentkezés a helyszínről
+- name: Tilos foci meccsek
+  loc: Liget
+  desc: |-
+     Hallgatók vs. Műsorkészítők vs. Menekültek vs Ligetvédő
 - name: Masszázs
   time: 17:00-22:00
   loc: Room 041
