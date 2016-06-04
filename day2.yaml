@@ -132,6 +132,7 @@ events:
     élő bejelentkezés a helyszínről
 - name: Tilos foci meccsek
   loc: Liget
+  time: '14:00-17:00'
   desc: |-
      Hallgatók vs. Műsorkészítők vs. Menekültek vs Ligetvédő
 - name: Masszázs
