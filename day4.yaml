@@ -1,6 +1,6 @@
 ---
 _id: day4
-_rev: 13-6fc7fecba0278d8725e21ad321256175
+_rev: 17-8fd9ec585e3935c3809549760ad76cf8
 name: Népzene nap
 date: június 6, hétfő
 events:
@@ -12,7 +12,8 @@ events:
   loc: Kert
   url: http://www.cirkuszka.com/
   fb: https://www.facebook.com/CirkuszKA/
-  desc: The sensuality of Fado with the energy of Tango.Inspired by the diversity
+  desc: |-
+    The sensuality of Fado with the energy of Tango.Inspired by the diversity
     of music throughout the world.Born of their their cultural roots, native Hungary.
   image: cirkuszka.jpg
 - name: DJ Qtewly
@@ -22,16 +23,19 @@ events:
   loc: Kert
   time: '19:30'
   fb: https://www.facebook.com/katiburnsntett/
-  desc: A Kati Burns N-tett egy olyan ethno jazz formáció, amely a számukra izgalmas 
-    közel- és távol-keleti dallamokat ötvözi kortárs hangszerekkel, és énektechnikával. 
-    A zenészek különböző "zenei előéletének" köszönhetően egy teljesen sajátos, 
-    egyéni hangzásvilágot sikerült kialakítaniuk, amely egyszerre táplálkozik 
-    a hagyományos népzenéből és a mai világ kortárs zenei és egyéb hatásaiból.
-    tagok: Burns Kati - ének, kaval, furulya; Strieženec Dávid - gitár, effektek; Kas Bence - ütősök;Horváth Ádám - nagybőgő, gardon
+  image: BurnsKati.jpg
+  desc: "A Kati Burns N-tett egy olyan ethno jazz formáció, amely a számukra izgalmas
+    \nközel- és távol-keleti dallamokat ötvözi kortárs hangszerekkel, és énektechnikával.
+    \nA zenészek különböző \"zenei előéletének\" köszönhetően egy teljesen sajátos,
+    \negyéni hangzásvilágot sikerült kialakítaniuk, amely egyszerre táplálkozik \na
+    hagyományos népzenéből és a mai világ kortárs zenei és egyéb hatásaiból.\ntagok:
+    Burns Kati - ének, kaval, furulya; Strieženec Dávid - gitár, effektek; Kas Bence
+    - ütősök;Horváth Ádám - nagybőgő, gardon"
 - name: Góbé zenekar
   fb: https://www.facebook.com/GobeZenekar
   image: gobe.jpg
-  desc: "A hattagú budapesti Góbé zenekar a Kárpát-medencei népzenei hagyományt szabadon
+  desc: |-
+    "A hattagú budapesti Góbé zenekar a Kárpát-medencei népzenei hagyományt szabadon
     variálja, lazán és izgalmasan kapcsolja a jazz, a blues, a reggae és a klasszikus
     zene elemeivel. \n\nDalaik arányérzékről, iróniáról tanúskodnak, jól kihasználják
     a különböző műfajokban rejlő energiákat, hangulatokat. \n\nEgyaránt otthonosan
@@ -43,56 +47,79 @@ events:
   loc: Kert
   time: '22:00'
 - name: Ethnofil
+  imagea: Ethnofil.jpg
   loc: Nagyterem
   time: '23:00'
   fb: https://www.facebook.com/ethnofil/
-  desc: Középiskolás baráti társaság örömzenélése, tizenéves kamaszok zenei agymenése, 
-    népzenei háttér, egy kis jazz és nem kevés improvizáció. 
-    Nagyjából ez az egri származású Ethnofil megalakulásának kémiai vegyülete.
-    A rendszeres koncertek mellett az Ethnofil neve 
-    több összművészeti projektben tűnt fel, melyekben a csapat kortárs táncosokkal, 
-    valamint vizuális elemek által inspirálva próbálta ki magát improvizációs előadásokban. 
-    tagok: Viola Okos (vocal/violin), Fanni Zahár (sax/flute), András Weil (keys), Őrsi András (scratch/sampler), Zsolt Moldván (perc), Levente Kocsis (bass), Gergely Okos (drums) 
+  desc: "Középiskolás baráti társaság örömzenélése, tizenéves kamaszok zenei agymenése,
+    \nnépzenei háttér, egy kis jazz és nem kevés improvizáció. \nNagyjából ez az egri
+    származású Ethnofil megalakulásának kémiai vegyülete.\nA rendszeres koncertek
+    mellett az Ethnofil neve \ntöbb összművészeti projektben tűnt fel, melyekben a
+    csapat kortárs táncosokkal, \nvalamint vizuális elemek által inspirálva próbálta
+    ki magát improvizációs előadásokban. \ntagok: Viola Okos (vocal/violin), Fanni
+    Zahár (sax/flute), András Weil (keys), Őrsi András (scratch/sampler), Zsolt Moldván
+    (perc), Levente Kocsis (bass), Gergely Okos (drums) "
 - name: Parapács - vonós táncház
   loc: Kisterem
   time: '22:30'
   fb: https://www.facebook.com/parapacs
   url: http://parapacs.hu/
-  image: parapacs.jpg
-  desc: A Parapács név erdélyi dialektusban, ügyes, talpraesett, jó beszédű embert jelent. 
-    A zenészek kiknek muzsikáján felnőttünk is efféle rátermett ügyes emberek voltak.
-    2007 nyarán döntöttük el Dragony Gábor barátommal (a zenekar brácsásával) 
-    hogy összehozunk egy vonós bandát. Akkor még mindketten Nyíregyházán tanultunk, 
-    de a zenekar székhelye Tállya lett. A névválasztással egyben célokat is választottunk. 
-    Legfőbb feladatunknak tartjuk a népzene mulattató, és a nép hagyományok közösség teremtő 
-    funkcióját a mai világba átmenteni. Kicsiknek - nagyoknak felidézni 
-    a patkaporos pajták báljainak hangulatát a táncházainkban. 
-    Szívesen kísérünk hagyományörző tánceggyütteseket, muzsikálunk koncerteket. 
-    Mindemelett keressük a népzene mai nyelvét, a zenében az önmegvalósítást népdalokat 
-    műdalokat saját értelmezésünkben új köntösbe öltöztetve játszuk, adjuk tovább!
-    tagok: Pusko Márton - hegedű, koboz; Fekete Krisztián - cimbalom, brácsa, tangóharmónika; Dragony Gábor - brácsa, nagybőgő, citera; Vojtonovszki Sándor - nagybőgő, brácsa
+  image: Parapacs.jpg
+  desc: "\nA Parapács név erdélyi dialektusban, ügyes, talpraesett, jó beszédű embert
+    jelent. \nA zenészek kiknek muzsikáján felnőttünk is efféle rátermett ügyes emberek
+    voltak.\n\n2007 nyarán döntöttük el Dragony Gábor barátommal (a zenekar brácsásával)
+    \nhogy összehozunk egy vonós bandát. Akkor még mindketten Nyíregyházán tanultunk,
+    \nde a zenekar székhelye Tállya lett. \n\nA névválasztással egyben célokat is
+    választottunk. \nLegfőbb feladatunknak tartjuk a népzene mulattató, és a nép hagyományok
+    közösség teremtő \nfunkcióját a mai világba átmenteni. Kicsiknek - nagyoknak felidézni
+    \na patkaporos pajták báljainak hangulatát a táncházainkban. \nSzívesen kísérünk
+    hagyományörző tánceggyütteseket, muzsikálunk koncerteket. \nMindemelett keressük
+    a népzene mai nyelvét, a zenében az önmegvalósítást népdalokat \nműdalokat saját
+    értelmezésünkben új köntösbe öltöztetve játszuk, adjuk tovább!\ntagok: Pusko Márton
+    - hegedű, koboz; Fekete Krisztián - cimbalom, brácsa, tangóharmónika; Dragony
+    Gábor - brácsa, nagybőgő, citera; Vojtonovszki Sándor - nagybőgő, brácsa"
 - name: Babra
-  desc: délszláv / balkáni táncház
+  desc: "\n2014 tavaszának első szellője fújta össze ezt a színes - szíves társaságot
+    Budapesten.\nÁtlagosan 10-ből 8 kisgyermekes anyuka által csak cuki kis gitárként
+    ismert \ntambura nevű hangszer az alapja muzsikánknak - ami eredetileg a szomszédos
+    délszláv népek szívéből \nzengett át határainkon hozzánk, magyarokhoz, majd szublimált
+    a mi népzenénkkel...\nfortyogott, sóval-borssal ízesedett, a nap melegétől illatos
+    párát eresztett a Kárpát-medence felett, \nmi pedig kábultan szívjuk magunkba
+    azt az édes - kesernyés, \"nevettető-zokogtató\", \nélettől dús levegőjű muzsikát,
+    ami csiklandozza az idegrendszert, körbe táncoltatja a tömegeket \nés itatja velük
+    az égetett szeszt...\n\ntagok: Koller Dániel - prímtambura,basszprímtambura brácstambura,
+    ének; Pozsonyi Dávid - basszprímtambura, derbuka, ének; Réti Benedek - harmonika;
+    Babcsán Bence - brácstambura, szaxofon, tárogató, klarinét, furulyák, ének; Varga
+    Veronika - nagybőgő, ének / double bass, vocals"
   loc: Room 041
   fb: https://www.facebook.com/babraband/
   url: http://www.babraband.com/
-  desc: 2014 tavaszának első szellője fújta össze ezt a színes - szíves társaságot Budapesten.
-    Átlagosan 10-ből 8 kisgyermekes anyuka által csak cuki kis gitárként ismert 
-    tambura nevű hangszer az alapja muzsikánknak - ami eredetileg a szomszédos délszláv népek szívéből 
-    zengett át határainkon hozzánk, magyarokhoz, majd szublimált a mi népzenénkkel...
-    fortyogott, sóval-borssal ízesedett, a nap melegétől illatos párát eresztett a Kárpát-medence felett, 
-    mi pedig kábultan szívjuk magunkba azt az édes - kesernyés, "nevettető-zokogtató", 
-    élettől dús levegőjű muzsikát, ami csiklandozza az idegrendszert, körbe táncoltatja a tömegeket 
-    és itatja velük az égetett szeszt...
-    tagok: Koller Dániel - prímtambura,basszprímtambura brácstambura, ének; Pozsonyi Dávid - basszprímtambura, derbuka, ének; Réti Benedek - harmonika; Babcsán Bence - brácstambura, szaxofon, tárogató, klarinét, furulyák, ének; Varga Veronika - nagybőgő, ének / double bass, vocals
   image: babra.jpg
   time: '22:30'
 - name: BOGRÁCS
-  time: '15:30-20.30'
-  desc: 'Bornemissza Anna 1680-as kiadású szakácskönyvéből Szőke András főz.
-    1. bogrács: Erdélyi savanyú malachús fehér cseresznyével Bogrács 
-    2. bogrács: Erdélyi bőséges zöldséges leves kecskesavóval'
+  time: 15:30-20.30
+  desc: "'Bornemissza Anna 1680-as kiadású szakácskönyvéből Szőke András főz.\n1.
+    bogrács: Erdélyi savanyú malachús fehér cseresznyével Bogrács \n2. bogrács: Erdélyi
+    bőséges zöldséges leves kecskesavóval'"
 _attachments:
+  Parapacs.jpg:
+    content_type: image/jpeg
+    revpos: 17
+    digest: md5-jt/uSoefOzHu2MXXrZXAPw==
+    length: 53388
+    stub: true
+  Ethnofil.jpg:
+    content_type: image/jpeg
+    revpos: 16
+    digest: md5-3g8y34C+lc4imlSnfikHZw==
+    length: 68102
+    stub: true
+  BurnsKati.jpg:
+    content_type: image/jpeg
+    revpos: 15
+    digest: md5-6HMazWMxKm8NzfiYunL19Q==
+    length: 72064
+    stub: true
   gobe.jpg:
     content_type: image/jpeg
     revpos: 12
