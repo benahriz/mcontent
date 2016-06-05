@@ -47,7 +47,7 @@ events:
   loc: Kert
   time: '22:00'
 - name: Ethnofil
-  imagea: Ethnofil.jpg
+  image: Ethnofil.jpg
   loc: Nagyterem
   time: '23:00'
   fb: https://www.facebook.com/ethnofil/
