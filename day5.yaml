@@ -39,6 +39,7 @@ events:
   loc: nagyterem
   fb: https://www.facebook.com/zvezda.beta.bp/
 - name: Kyliga Dalen
+  image: kyliga.jpg
   time: '20:00'
   loc: Kisterem
   sound: https://www.youtube.com/channel/UCkPy3gZIZxeBvQXgJD8Tmbw
@@ -50,6 +51,7 @@ events:
   time: '21:00'
   loc: Kisterem
 - name: THE TAKTIKA
+  image: taktika.jpg
   time: '23:00'
   loc: Kisterem
   fb: https://www.facebook.com/thetaktika/
@@ -57,6 +59,7 @@ events:
   time: '00:00'
   loc: Kisterem
   fb: https://www.facebook.com/elektrikwale/
+  image: elektrikwale.jpg
 - name: Drünken Bastards
   time: '01:00'
   loc: Kisterem
@@ -79,8 +82,7 @@ events:
   time: '00:30'
   loc: Room 041
   fb: https://www.facebook.com/peterbernath
-- name: |-
-Garpo
+- name: Garpo
   time: '02:00'
   loc: Room 041
 - name: FMXXX pop up peep show studio az ikarusban
@@ -96,3 +98,28 @@ Garpo
   loc: Kert sarka
   fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
   desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
+_attachments:
+  taktika.jpg:
+    content_type: image/jpeg
+    revpos: 8
+    digest: md5-7+A+Uc/uVSNwpj2XbcvL2w==
+    length: 43366
+    stub: true
+  kyliga.jpg:
+    content_type: image/jpeg
+    revpos: 7
+    digest: md5-aNXzyBDMWOB3K8uAQ9nrPA==
+    length: 36953
+    stub: true
+  elektrikwale.jpg:
+    content_type: image/jpeg
+    revpos: 6
+    digest: md5-NqySh4xRhCdTEXGldLqS+A==
+    length: 94039
+    stub: true
+  drunken.jpg:
+    content_type: image/jpeg
+    revpos: 5
+    digest: md5-1DckUDibiGB/9RhgO1/hDw==
+    length: 72128
+    stub: true
