@@ -13,7 +13,7 @@ events:
   url: http://www.cirkuszka.com/
   fb: https://www.facebook.com/CirkuszKA/
   desc: |-
-    The sensuality of Fado with the energy of Tango.Inspired by the diversity of music throughout the world. Born of their their cultural roots, native Hungary.
+    The sensuality of Fado with the energy of Tango. Inspired by the diversity of music throughout the world. Born of their their cultural roots, native Hungary.
   image: cirkuszka.jpg
 - name: DJ Qtewly
   loc: Kert
@@ -23,7 +23,7 @@ events:
   time: '19:30'
   fb: https://www.facebook.com/katiburnsntett/
   image: BurnsKati.jpg
-  desc: "A Kati Burns N-tett egy olyan ethno jazz formáció, amely a számukra izgalmas közel- és távol-keleti dallamokat ötvözi kortárs hangszerekkel, és énektechnikával. A zenészek különböző "zenei előéletének\" köszönhetően egy teljesen sajátos, egyéni hangzásvilágot sikerült kialakítaniuk, amely egyszerre táplálkozik hagyományos népzenéből és a mai világ kortárs zenei és egyéb hatásaiból.
+  desc: "A Kati Burns N-tett egy olyan ethno jazz formáció, amely a számukra izgalmas közel- és távol-keleti dallamokat ötvözi kortárs hangszerekkel, és énektechnikával. A zenészek különböző "zenei előéletének" köszönhetően egy teljesen sajátos, egyéni hangzásvilágot sikerült kialakítaniuk, amely egyszerre táplálkozik hagyományos népzenéből és a mai világ kortárs zenei és egyéb hatásaiból.
   tagok: Burns Kati - ének, kaval, furulya; Strieženec Dávid - gitár, effektek; Kas Bence - ütősök; Horváth Ádám - nagybőgő, gardon"
 - name: Góbé zenekar
   fb: https://www.facebook.com/GobeZenekar
@@ -47,10 +47,14 @@ events:
   fb: https://www.facebook.com/parapacs
   url: http://parapacs.hu/
   image: Parapacs.jpg
-  desc: "A Parapács név erdélyi dialektusban, ügyes, talpraesett, jó beszédű embert jelent. A zenészek kiknek muzsikáján felnőttünk is efféle rátermett ügyes emberek voltak. 2007 nyarán döntöttük el Dragony Gábor barátommal (a zenekar brácsásával) hogy összehozunk egy vonós bandát. Akkor még mindketten Nyíregyházán tanultunk, de a zenekar székhelye Tállya lett. A névválasztással egyben célokat is választottunk. Legfőbb feladatunknak tartjuk a népzene mulattató, és a nép hagyományok közösség teremtő funkcióját a mai világba átmenteni. Kicsiknek - nagyoknak felidézni a patkaporos pajták báljainak hangulatát a táncházainkban. Szívesen kísérünk hagyományörző tánceggyütteseket, muzsikálunk koncerteket. Mindemelett keressük a népzene mai nyelvét, a zenében az önmegvalósítást népdalokat műdalokat saját értelmezésünkben új köntösbe öltöztetve játszuk, adjuk tovább! 
+  desc: "A Parapács név erdélyi dialektusban, ügyes, talpraesett, jó beszédű embert jelent. A zenészek kiknek muzsikáján felnőttünk is efféle rátermett ügyes emberek voltak. 
+  
+  2007 nyarán döntöttük el Dragony Gábor barátommal (a zenekar brácsásával) hogy összehozunk egy vonós bandát. Akkor még mindketten Nyíregyházán tanultunk, de a zenekar székhelye Tállya lett. 
+  
+  A névválasztással egyben célokat is választottunk. Legfőbb feladatunknak tartjuk a népzene mulattató, és a nép hagyományok közösség teremtő funkcióját a mai világba átmenteni. Kicsiknek - nagyoknak felidézni a patkaporos pajták báljainak hangulatát a táncházainkban. Szívesen kísérünk hagyományörző tánceggyütteseket, muzsikálunk koncerteket. Mindemelett keressük a népzene mai nyelvét, a zenében az önmegvalósítást népdalokat műdalokat saját értelmezésünkben új köntösbe öltöztetve játszuk, adjuk tovább! 
     tagok: Pusko Márton - hegedű, koboz; Fekete Krisztián - cimbalom, brácsa, tangóharmónika; Dragony Gábor - brácsa, nagybőgő, citera; Vojtonovszki Sándor - nagybőgő, brácsa"
 - name: Babra
-  desc: "2014 tavaszának első szellője fújta össze ezt a színes - szíves társaságot Budapesten.Átlagosan 10-ből 8 kisgyermekes anyuka által csak cuki kis gitárként ismert tambura nevű hangszer az alapja muzsikánknak - ami eredetileg a szomszédos délszláv népek szívéből zengett át határainkon hozzánk, magyarokhoz, majd szublimált a mi népzenénkkel...fortyogott, sóval-borssal ízesedett, a nap melegétől illatos párát eresztett a Kárpát-medence felett, mi pedig kábultan szívjuk magunkba azt az édes - kesernyés, \"nevettető-zokogtató\", élettől dús levegőjű muzsikát, ami csiklandozza az idegrendszert, körbe táncoltatja a tömegeket és itatja velük az égetett szeszt...
+  desc: "2014 tavaszának első szellője fújta össze ezt a színes - szíves társaságot Budapesten.Átlagosan 10-ből 8 kisgyermekes anyuka által csak cuki kis gitárként ismert tambura nevű hangszer az alapja muzsikánknak - ami eredetileg a szomszédos délszláv népek szívéből zengett át határainkon hozzánk, magyarokhoz, majd szublimált a mi népzenénkkel... fortyogott, sóval-borssal ízesedett, a nap melegétől illatos párát eresztett a Kárpát-medence felett, mi pedig kábultan szívjuk magunkba azt az édes - kesernyés, \"nevettető-zokogtató\", élettől dús levegőjű muzsikát, ami csiklandozza az idegrendszert, körbe táncoltatja a tömegeket és itatja velük az égetett szeszt...
     tagok: Koller Dániel - prímtambura,basszprímtambura brácstambura, ének; Pozsonyi Dávid - basszprímtambura, derbuka, ének; Réti Benedek - harmonika; Babcsán Bence - brácstambura, szaxofon, tárogató, klarinét, furulyák, ének; Varga Veronika - nagybőgő, ének / double bass, vocals"
   loc: Room 041
   fb: https://www.facebook.com/babraband/
@@ -59,9 +63,9 @@ events:
   time: '22:30'
 - name: BOGRÁCS
   time: 15:30-20.30
-  desc: "Bornemissza Anna 1680-as kiadású szakácskönyvéből Szőke András főz.\n1.
-    bogrács: Erdélyi savanyú malachús fehér cseresznyével Bogrács \n2. bogrács: Erdélyi
-    bőséges zöldséges leves kecskesavóval"
+  desc: "Bornemissza Anna 1680-as kiadású szakácskönyvéből Szőke András főz.
+  1.bogrács: Erdélyi savanyú malachús fehér cseresznyével Bogrács 
+  2. bogrács: Erdélyi bőséges zöldséges leves kecskesavóval"
 _attachments:
   Parapacs.jpg:
     content_type: image/jpeg
