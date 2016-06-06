@@ -43,9 +43,9 @@ events:
   loc: Kisterem
   sound: https://www.youtube.com/channel/UCkPy3gZIZxeBvQXgJD8Tmbw
   fb: https://www.facebook.com/kyligadalenbp/
-  desc: The band was formed by two lunatics - Haver 666 & Senior Hernandez - in Budapest. 
-  It’s all about losing control and worshipping the beat while getting wasted on cheap beer and shitty weed. Since then Spärtacus von Necro also joined for greater glory.
-  members: Senior Hernandez – Guitars, Vocals; Haver 666 – Beat, Vocals; Spärtacus von Necro - Guitars
+  desc: "The band was formed by two lunatics - Haver 666 & Senior Hernandez - in Budapest. It’s all about losing control and worshipping the beat while getting wasted on cheap beer and shitty weed. Since then Spärtacus von Necro also joined for greater glory.
+  
+  members: Senior Hernandez – Guitars, Vocals; Haver 666 – Beat, Vocals; Spärtacus von Necro - Guitars"
 - name: For Good
   time: '21:00'
   loc: Kisterem
@@ -61,9 +61,9 @@ events:
   time: '01:00'
   loc: Kisterem
   fb: https://www.facebook.com/Dr%C3%BCnken-Bastards-207430989273473/
-  desc: Baptized in speed and blood, the toxic oil of the 1980's is pumping in the veins of Drünken Bastards! With their second album Horns of the Wasted, these hungover Hungarian's blitz the senses with galloping hardcore punk and evil blackthrashing metal, taking all the vilest aspects of the '80s underground and warping 'em into diabolical anthems. Too metal for punk and too punk for metal, Drünken Bastards are posercrushing road warriors existing in a no-man's land... 
-  and they don't give a fuck as long as they're on the Horns of the Wasted! Expect NO sweetie melodies and NO gushy lyrics, just pure metal exekution straight from fuckin' hell.
-  members: Hoggish Greedly - spits; Pete Fire - guitars; Streetwise Professor - guitars; Gin Tonic Kid - bass; BeetleJuice - drums
+  desc: "Baptized in speed and blood, the toxic oil of the 1980's is pumping in the veins of Drünken Bastards! With their second album Horns of the Wasted, these hungover Hungarian's blitz the senses with galloping hardcore punk and evil blackthrashing metal, taking all the vilest aspects of the '80s underground and warping 'em into diabolical anthems. Too metal for punk and too punk for metal, Drünken Bastards are posercrushing road warriors existing in a no-man's land...   and they don't give a fuck as long as they're on the Horns of the Wasted! Expect NO sweetie melodies and NO gushy lyrics, just pure metal exekution straight from fuckin' hell.
+  
+  members: Hoggish Greedly - spits; Pete Fire - guitars; Streetwise Professor - guitars; Gin Tonic Kid - bass; BeetleJuice - drums"
 - name: Cökxpon Archiv Set
   time: '20:00'
   loc: Room 041
@@ -79,7 +79,8 @@ events:
   time: '00:30'
   loc: Room 041
   fb: https://www.facebook.com/peterbernath
-- name: Garpo
+- name: |-
+Garpo
   time: '02:00'
   loc: Room 041
 - name: FMXXX pop up peep show studio az ikarusban
@@ -90,3 +91,8 @@ events:
   time: '15:30-20:30'
   loc: bogracs
   desc: Kolorlokál/Cajun Gumbo, Bádogdob/Haladó/Babgulyás
+- name: Sweeney Barber Shop
+  time: '18:00-22:00'
+  loc: Kert sarka
+  fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
+  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
