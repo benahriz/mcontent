@@ -110,6 +110,11 @@ events:
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
+- name: Sweeney Barber Shop
+  time: '18:00-22:00'
+  loc: Kert sarka
+  fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
+  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
 unnamed: 
 _attachments:
   elefant.jpg:
