@@ -11,13 +11,17 @@ events:
 - name: Speakers Of Zion
   fb: https://www.facebook.com/speakersofzion
   image: speakersofzion.jpg
-  desc: '"REGGAE-DANCEHALL-DUB"'
+  desc: '"Zion az emberiség utolsó menedéke, egy békés világ jelképe a REGGAE zenében. Egy szimbólum. Egy olyan világ jelképe ahol a szeretet a béke és az egység az érték. Mi a Speakers-ek erről (is) zenélünk, mesélünk neked. 
+  
+  tagok: Bakó Szabolcs - vocal; Benjámin Ditrói - saxophone; Györe Dávid - keyboard; Kósa Mercédesz Málna - vocal; Pálinkás Péter - guitar; Schneider Róbert (Srob) - bass; Seres Dániel - drums"'
   loc: Kert
   time: '19:30'
 - name: Ladánybene 27
   fb: https://www.facebook.com/Ladanybene27
   image: Ladanybene27.jpg
-  desc: '"Roots reggae, spirit & positive vibe!\nNew album - Offenzíva - www.lb27.hu!\n"'
+  desc: '"A Ladánybene 27 (LB27) 1985 óta működik a reggae szolgálatában! A zenekar ideológiája 2000-es években átalakult, már nem a reggae zene teljes spektrumának bemutatása a céljuk, hanem a jamaicai gyökerekből táplálkozó, saját, energikus előadásmódú, modern roots reggae-ben történő elmélyülés.
+
+  tagok: Bodnár Tibor – gitár; Bokó Zoltán - billentyű; Bolla Gábor - harsona; Görögh Dani - trombita; Hertelendi Rasta István – basszusgutár; Hurguly Attila - dob; Kálmán András (Kálmi) - billentyű; László M. Miksa - ének; Pásztor Ákos (Pászti) - szaxofon"'
   loc: Kert
   time: '21:00'
 - name: TOMBOLA
@@ -32,6 +36,7 @@ events:
   type: DK
   time: '00:30'
 - name: Dubapest HiFi
+  fb: https://www.facebook.com/dubapest/
   desc: "(full sound system) & Babystep, G Ras (Riddim Colony), Selecta Bosi (Love
     Alliance)"
   time: 23:00-03:00
@@ -39,9 +44,12 @@ events:
 - name: Mheola
   loc: Kisterem
   time: '22:00'
+  fb: https://www.facebook.com/Raw-Soul-mheola-1420309781611518/
+  sound: https://www.facebook.com/mentalien/
 - name: Mentalien
   loc: Kisterem
   time: '00:00'
+  fb: https://www.facebook.com/mentalien/
 - name: Vulman & MM & Farkas
   loc: Kisterem
   time: '02:00'
@@ -54,12 +62,13 @@ events:
   fb: https://www.facebook.com/153836944657054
   image: 153836944657054.jpg
   desc: "Genüma is a psychedelic-electronic music composer, producer from Budapest,
-    Hungary. \n\nHe is also a member of several Budapest-based experimental musical
+    Hungary. nHe is also a member of several Budapest-based experimental musical
     projects/bands."
   sound: http://www.mixcloud.com/genuma
 - name: Ohmikron
   loc: Room 041
   time: '01:00'
+  fb: https://www.facebook.com/OhmikRon/
 - name: Rúka
   loc: Room 041
   time: '03:00'
@@ -76,9 +85,14 @@ events:
 - name: Bogrács
   loc: Kert
   type: bogracs
-  time: 19:00 kb.
+  time: '15:30-20:30'  kb.
   desc: Híresek/Raszta paszta (vegetarian delight)\n, Szex-Akció Hírcsoport/Káposztás
     kondér
+- name: Sweeney Barber Shop
+  time: '18:00-22:00'
+  loc: Kert sarka
+  fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
+  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
 _attachments:
   153836944657054.jpg:
     content_type: image/jpeg
