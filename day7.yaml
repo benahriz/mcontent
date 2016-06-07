@@ -42,10 +42,12 @@ events:
   time: '00:30'
   loc: Kert
   type: DJ
+  fb: https://www.facebook.com/mustbeat/
 - name: As-Best
   time: '02:00'
   loc: Kert
   type: DJ
+  fb: https://www.facebook.com/As-Best-397656903587461/
 - name: Makrohang
   time: '23:30'
   loc: Nagyterem
