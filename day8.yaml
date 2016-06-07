@@ -28,39 +28,76 @@ events:
   loc: Kert
   time: '22:00'
 - name: Kerti DJk
-  desc: "-| Suefo Ordiman Nafta Szefi?"
+  desc: "-| Suefo Ordiman Nafta Szefi"
   time: '23:00'
   loc: Kert
 - name: Khamoro Budapest Band  (40p)
   time: '23:00'
   loc: Nagyterem
+  pb: https://www.facebook.com/Khamoro/
+  url: http://www.khamoro.hu
+  desc: "A zenekar célja a magyarországi és közép-európai, autentikus cigány kultúra gyűjtése, megőrzése, áthagyományozása, színpadra állítása; de ezzel együtt XXI. századi, modern gondolkodású világpolgárokként betekintést nyújtanak a távolabb élő cigányság zenei és tánckultúrájába is."
 - name: Parnograszt
   time: '00:00'
   loc: Nagyterem
+  fb: https://www.facebook.com/parnograszt/
+  url: http://www.parnograszt.com/
+  desc: "tagok: József Oláh (vocals, guitar, tambura); Viktor Oláh (vocals, guitar, dance); Sándor Horváth (vocals, spoons, dance);  János Jakocska (vocals, guitar); Mária Váradi (vocals, dance); Mária Balogh (vocals, dance); Krisztián Oláh (vocals, accordion); János Oláh (double bass); István Németh (oral bass, churn)"
 - name: Juci, Nafta
   time: '01:30'
   loc: Nagyterem
 - name: Half Note City
   loc: Nagyterem
   time: '20:00'
+  fb: https://www.facebook.com/HalfNoteCity/
+  desc: "tagok: Muzsnyai Márti, Makkay Imre, Pusztai István, Bordás Zoltán"
 - name: Pigeoncoma
   time: '21:00'
   loc: Nagyterem
+  fb: https://www.facebook.com/pigeoncoma/
+  url: https://pigeoncoma.bandcamp.com/releases
+  desc: "Two guys from the western region of Hungary and one from the east try to do their best at what they do worst Sushi."
 - name: Deley
   time: '23:00'
   loc: Nagyterem
+  fb: https://www.facebook.com/deleyband/
+  desc: ""Valójában a Kezdet nem vala egyéb, mint a Sötét Köd, és a Ködben volt a Delej. A Delej pedig megpörgeté az atomokat..."
+  
+  Tagok: Zoltán Kovács - Drums; Péter Laukó - Guitar; Szabolcs Székelyi - Keys/Computers; Gergely Ribényi - Bass; János Molnár - Live Visual; Károly Molnár - Live sound engineer"
 - name: Toul Syes
   time: '00:30'
   loc: Nagyterem
+  fb: https://www.facebook.com/toulsyes/
+  desc: "kind of instrumental post-rock #notjazz
+  
+  tagok: Balogh Máté | Csurgó Balázs | Farkas Dávid | Hajdu Botond "
 - name: Isle Of Man
   time: '20:00'
   loc: Room 041
+  fb: https://www.facebook.com/theisleofman/
+  sound: https://soundcloud.com/theisleofman
 - name: The Somersault Boy
   time: '21:00'
   loc: Room 041
+  fb: https://www.facebook.com/TheSomersaultBoy/
+  desc: "Sickpop music from Budapest, Hungary. Started out as a one-man band, rocking powerpop-trio since 2012. Catchy songs about feeling young and being grown. 
+  
+  tagok: Laszlo Sallai / Zoltán Horváth / Mika Sundholm"
 - name: Lopunk
   time: '23:00'
   loc: Room 041
+  fb: https://www.facebook.com/Lopunk-zenekar-154107321287358/
+  url: http://lopunk.blog.hu/
+  desc: "Punk"
 - name: River Of Lust
   time: '00:30'
   loc: Room 041
+  fb: https://www.facebook.com/riveroflust/
+  desc: "Blues based Rock and Roll highly seasoned with endless amount of psychedelic shit
+  
+  tagok: Almási Tamás; Galambos Dorina; Erdős Szabolcs"
+- name: Sweeney Barber Shop
+  time: '18:00-22:00'
+  loc: Kert sarka
+  fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
+  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
