@@ -81,6 +81,11 @@ events:
   desc: |-
     dj Zotyka: Mekkragu
     Tilos Selection: Sinkó Bori raguja (hús nélkül)
+- name: Sweeney Barber Shop
+  time: '18:00-22:00'
+  loc: Kert sarka
+  fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
+  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
 _attachments:
   thesilvershine.jpg:
     content_type: image/jpeg
