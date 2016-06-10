@@ -62,11 +62,16 @@ events:
   time: '23:00'
   type: dj
   loc: Kert
-- name: Palotai
+- name: REWIND SPECIAL: Palotai
+  time: '23:00'
+  loc: Nagyterem
+  fb: https://www.facebook.com/Dj-Palotai-270313520748/
+- name: REWIND SPECIAL: Cadik
   time: '00:00'
   loc: Nagyterem
+  fb: https://www.facebook.com/djcadik/
 - name: Samulkow
-  time: '02:00'
+  time: '01:00'
   loc: Nagyterem
 - name: 'Rave Crew:  Dj Ren, X-Gnork, Carl Oh'
   time: '02:00'
@@ -86,25 +91,46 @@ events:
 - name: Ohmicron (Euphonic Moments)
   time: '04:30'
   loc: Kisterem
+- name: 40 Days
+  time: '18:30'
+  loc: Room 041
+  desc: "A budapesti 40 Days zenéje és felállása (énekeslány + zenész srácok) első blikkre sokakat emlékeztethet olyan álmodozós együttesekre mint a Cocteau Twins vagy a Sundays. Ám dalaikban ott lapul számos meglepően vad váltás, beindulás, és nem kevés pszichedélia is."
+  fb: https://www.facebook.com/40daysband/
+- name: Signore Crust
+  time: '19:30'
+  loc: Room 041
+  desc: "Hungarian surfrock / ocean / vintage / reverb band
+  tagok: Zoli vocal 🌊 Ricsesz bass 🌊 Toto drums 🌊 Zsombi guitar 🌊 Moric guitar 🌊
+  fb: https://www.facebook.com/signorecrust/"
 - name: No Eves
   time: '20:00'
-  loc: Room 041
+  loc: Room 04
+  desc: "Varju Előd / Gitár,Ének; Nyőgér Ádám / Gitár,Ének; Dulity Kálmán / Dob; Török Dániel / Bass"
+  fb: https://www.facebook.com/noevesofficial/
 - name: Klusters
   time: '21:00'
   loc: Room 041
+  desc: "A Klusters egy 2015-ben debütált elektronikus duó, melyet Barcsa Balázs és Juhász Huba alkotnak. Első nagylemezük az Olbers’ Paradox című konceptalbum, mely széleskörű műfaji hatásaival, valamint a hozzá készített különleges vizuális világgal jelent meg: "
+  fb: https://www.facebook.com/klustersmusic/
 - name: Deep Glaze
   time: '23:00'
   loc: Room 041
+  desc: "Yorgos - Guitar, Vocal // Dimitris - Guitar // Szőke - Bass // Balázs - Synth // Bence - Drums //Miller-Drums"
+  fb: https://www.facebook.com/deepglazeofficial/
 - name: METEO
-  time: '00:30'
+  time: '00:15'
   loc: Room 041
-- name: 40Days
+  desc:"garage psych
+  tagok: Maxim - vox, guitar; Bence - bass; Gergő - drums; Levente - keyboard"
+  fb: https://www.facebook.com/meteoband/
+- name: Puma Danger
   time: '01:30'
   loc: Room 041
+  fb: https://www.facebook.com/pumadangerband/
 - name: Bogrács
   desc: |-
-    Csonkamagyarország - Spártai chilis bab
-    Helyettes reggeli - Rablóhús-, vegáknak pandúrhús nyárson
+    Csonkamagyarország: Spártai chilis bab
+    Helyettes reggeli: Rablóhús-, vegáknak pandúrhús nyárson
   loc: Bogrács
   time: '18:00'
 - name: TOMBOLA
@@ -114,7 +140,7 @@ events:
   time: '18:00-22:00'
   loc: Kert sarka
   fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
-  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
+  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Adományért menő hajvágás!!"
 unnamed: 
 _attachments:
   elefant.jpg:
