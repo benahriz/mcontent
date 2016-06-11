@@ -77,15 +77,10 @@ events:
   time: '16:00'
   desc: "Élő rádióadás"
   loc: Robur
-- name: Szex-akció hírcsoport
-  desc: "Élő rádióadás"
-  time: '17:00'
-  type: radio
-  loc: Robur
 - name: Bogrács
   loc: Kert
   type: bogracs
-  time: '15:30-20:30'  kb.
+  time: '15:30-20:30  kb.'
   desc: Híresek/Raszta paszta (vegetarian delight)\n, Szex-Akció Hírcsoport/Káposztás
     kondér
 - name: Sweeney Barber Shop

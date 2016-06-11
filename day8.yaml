@@ -1,6 +1,6 @@
 ---
 _id: day8
-_rev: 3-9ce1a185601af8dafa4de57727a99c40
+_rev: 15-58035a9459268cb5ef26966a8168b222
 name: Roma nap
 date: június 10, péntek
 events:
@@ -32,17 +32,25 @@ events:
   time: '23:00'
   loc: Kert
 - name: Khamoro Budapest Band  (40p)
+  image: khamoro.jpg
   time: '23:00'
   loc: Nagyterem
   pb: https://www.facebook.com/Khamoro/
   url: http://www.khamoro.hu
-  desc: "A zenekar célja a magyarországi és közép-európai, autentikus cigány kultúra gyűjtése, megőrzése, áthagyományozása, színpadra állítása; de ezzel együtt XXI. századi, modern gondolkodású világpolgárokként betekintést nyújtanak a távolabb élő cigányság zenei és tánckultúrájába is."
+  desc: A zenekar célja a magyarországi és közép-európai, autentikus cigány kultúra
+    gyűjtése, megőrzése, áthagyományozása, színpadra állítása; de ezzel együtt XXI.
+    századi, modern gondolkodású világpolgárokként betekintést nyújtanak a távolabb
+    élő cigányság zenei és tánckultúrájába is.
 - name: Parnograszt
   time: '00:00'
+  image: parnograst.png
   loc: Nagyterem
   fb: https://www.facebook.com/parnograszt/
   url: http://www.parnograszt.com/
-  desc: "tagok: József Oláh (vocals, guitar, tambura); Viktor Oláh (vocals, guitar, dance); Sándor Horváth (vocals, spoons, dance);  János Jakocska (vocals, guitar); Mária Váradi (vocals, dance); Mária Balogh (vocals, dance); Krisztián Oláh (vocals, accordion); János Oláh (double bass); István Németh (oral bass, churn)"
+  desc: 'tagok: József Oláh (vocals, guitar, tambura); Viktor Oláh (vocals, guitar,
+    dance); Sándor Horváth (vocals, spoons, dance);  János Jakocska (vocals, guitar);
+    Mária Váradi (vocals, dance); Mária Balogh (vocals, dance); Krisztián Oláh (vocals,
+    accordion); János Oláh (double bass); István Németh (oral bass, churn)'
 - name: Juci, Nafta
   time: '01:30'
   loc: Nagyterem
@@ -50,28 +58,34 @@ events:
   loc: Nagyterem
   time: '20:00'
   fb: https://www.facebook.com/HalfNoteCity/
-  desc: "tagok: Muzsnyai Márti, Makkay Imre, Pusztai István, Bordás Zoltán"
+  desc: 'tagok: Muzsnyai Márti, Makkay Imre, Pusztai István, Bordás Zoltán'
 - name: Pigeoncoma
+  image: pigeoncoma.jpg  
   time: '21:00'
   loc: Nagyterem
   fb: https://www.facebook.com/pigeoncoma/
   url: https://pigeoncoma.bandcamp.com/releases
-  desc: "Two guys from the western region of Hungary and one from the east try to do their best at what they do worst Sushi."
+  desc: Two guys from the western region of Hungary and one from the east try to do
+    their best at what they do worst Sushi.
 - name: Deley
+  image: deley.jpg
   time: '23:00'
   loc: Nagyterem
   fb: https://www.facebook.com/deleyband/
-  desc: ""Valójában a Kezdet nem vala egyéb, mint a Sötét Köd, és a Ködben volt a Delej. A Delej pedig megpörgeté az atomokat..."
-  
-  Tagok: Zoltán Kovács - Drums; Péter Laukó - Guitar; Szabolcs Székelyi - Keys/Computers; Gergely Ribényi - Bass; János Molnár - Live Visual; Károly Molnár - Live sound engineer"
+  desc: |2-
+
+    "Valójában a Kezdet nem vala egyéb, mint a Sötét Köd, és a Ködben volt a Delej. A Delej pedig megpörgeté az atomokat..."
+
+    Tagok: Zoltán Kovács - Drums; Péter Laukó - Guitar; Szabolcs Székelyi - Keys/Computers; Gergely Ribényi - Bass; János Molnár - Live Visual; Károly Molnár - Live sound engineer"
 - name: Toul Syes
   time: '00:30'
+  image: toulsyes.jpg
   loc: Nagyterem
   fb: https://www.facebook.com/toulsyes/
-  desc: "kind of instrumental post-rock #notjazz
-  
-  tagok: Balogh Máté | Csurgó Balázs | Farkas Dávid | Hajdu Botond "
+  desc: "kind of instrumental post-rock #notjazz\ntagok: Balogh Máté | Csurgó Balázs
+    | Farkas Dávid | Hajdu Botond "
 - name: Isle Of Man
+  image: isleofman.jpg
   time: '20:00'
   loc: Room 041
   fb: https://www.facebook.com/theisleofman/
@@ -80,24 +94,95 @@ events:
   time: '21:00'
   loc: Room 041
   fb: https://www.facebook.com/TheSomersaultBoy/
-  desc: "Sickpop music from Budapest, Hungary. Started out as a one-man band, rocking powerpop-trio since 2012. Catchy songs about feeling young and being grown. 
-  
-  tagok: Laszlo Sallai / Zoltán Horváth / Mika Sundholm"
+  desc: |-
+    Sickpop music from Budapest, Hungary. Started out as a one-man band, rocking powerpop-trio since 2012. Catchy songs about feeling young and being grown.
+    tagok: Laszlo Sallai / Zoltán Horváth / Mika Sundholm
 - name: Lopunk
+  image: lopunk.jpg
   time: '23:00'
   loc: Room 041
   fb: https://www.facebook.com/Lopunk-zenekar-154107321287358/
   url: http://lopunk.blog.hu/
-  desc: "Punk"
+  desc: Punk
 - name: River Of Lust
+  image: riveroflust.jpg
   time: '00:30'
   loc: Room 041
   fb: https://www.facebook.com/riveroflust/
-  desc: "Blues based Rock and Roll highly seasoned with endless amount of psychedelic shit
-  
-  tagok: Almási Tamás; Galambos Dorina; Erdős Szabolcs"
+  desc: |-
+    Blues based Rock and Roll highly seasoned with endless amount of psychedelic shit
+    tagok: Almási Tamás; Galambos Dorina; Erdős Szabolcs
 - name: Sweeney Barber Shop
-  time: '18:00-22:00'
+  time: 18:00-22:00
   loc: Kert sarka
   fb: https://www.facebook.com/Sweeney-Barber-Shop-169457629747270/
-  desc: "Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk van!!"
+  desc: Fodrászcsapatunk célul tűzte ki, hogy havi bontásban adakozik egy-egy klassz
+    cél érdekében. Sokadik alkalommal szeretnénk segíteni, de ehhez most rád is szükségünk
+    van!!
+_attachments:
+  toulsyes.jpg:
+    content_type: image/jpeg
+    revpos: 15
+    digest: md5-pJZaS8ZNuFJPnzUTXyfbtQ==
+    length: 76571
+    stub: true
+  sommersaultboy.jpg:
+    content_type: image/jpeg
+    revpos: 14
+    digest: md5-NaznPl5JxEJ0dskgtIeXnA==
+    length: 16183
+    stub: true
+  riveroflust.jpg:
+    content_type: image/jpeg
+    revpos: 13
+    digest: md5-C4UshfQKdGs1raS4R6yNzA==
+    length: 29911
+    stub: true
+  pigeoncoma.jpg:
+    content_type: image/jpeg
+    revpos: 12
+    digest: md5-48Jg81agfiwQhJJ7oRPGyQ==
+    length: 56689
+    stub: true
+  parnograst.png:
+    content_type: image/jpeg
+    revpos: 11
+    digest: md5-bvxmzB3xz2ehypHOgrEl3w==
+    length: 142621
+    stub: true
+  lopunk.jpg:
+    content_type: image/jpeg
+    revpos: 10
+    digest: md5-uwmMHxW/5ufcms8vgqopXQ==
+    length: 73374
+    stub: true
+  khamoro.jpg:
+    content_type: image/jpeg
+    revpos: 9
+    digest: md5-UCkFNSk1WBY3b9DOG7abGw==
+    length: 82878
+    stub: true
+  isleofman.jpg:
+    content_type: image/jpeg
+    revpos: 8
+    digest: md5-s9oMQC7iMRwnzSj+b13wdA==
+    length: 85475
+    stub: true
+  halfnotecity.jpg:
+    content_type: image/jpeg
+    revpos: 7
+    digest: md5-pNhbHmbF7RNQdBlKtWCUrg==
+    length: 66990
+    stub: true
+  dynamitedudes.jpg:
+    content_type: image/jpeg
+    revpos: 6
+    digest: md5-V48hYzdYqYjGUGGE5f/UCg==
+    length: 73480
+    stub: true
+  deley.jpg:
+    content_type: image/jpeg
+    revpos: 5
+    digest: md5-qmptgvVr0wtTnYabNO1yMg==
+    length: 63015
+    stub: true
