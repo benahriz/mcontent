@@ -5,10 +5,10 @@ name: Jazz nap
 date: június 3, péntek
 fb: https://www.facebook.com/events/1357978594218682
 events:
-- name: DJ Kölyök
+- name: In:Form
   time: '14:00'
   loc: Kert
-- name: Marzipan B
+- name: Sütő Márton
   time: '18:00'
   loc: Kert
   desc: A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeketközvetít,
@@ -17,25 +17,33 @@ events:
     rockból, az elektronikus és jazzes irányzatokból."
   fb: https://hu-hu.facebook.com/marzipanb
   logo: marczipan.png
-- name: Bazsinka Mihály Quartet
+- name: Baris Gábor Quartett
   time: '19:00'
   loc: Kert
-  image: bazsinka.jpg
-  url: http://bazsinkastream.com/hu
-- name: Vár Be Q
+  desc: Baris Gábor - szaxofon, fuvola
+  Klimász Tamás - nagybőgő
+  Molnár Bencze - Hrodes piano
+  Varga Bendegúz - dobok
+  image: BBaris.jpg
+  fb: https://www.facebook.com/BGinoQ/
+- name: Scheme
   time: '20:00'
   loc: Kert
-  fb: https://www.facebook.com/varbeq/
+  image: Scheme.jpg
+  fb: https://www.facebook.com/schemezenekar/
   desc: |-
-    A Vár Be Q zenekar 2015 elején alakult. Főként Várallyay Benedek saját szerzeményeit játsszák közösen kialakított koncepció szerint.
-
-    A zenekar tagjai Cseke Dániel,  Pál Gábor, Várallyay Benedek és Zombori Attila (2014-ben a Drum-Line tehetségkutató 2. helyezettje). Újító és egyben hagyományőrző zenei elképzeléseik által hoznak létre olyan instrumentális zenét, amely érdeklődésre tarthat számot a fiatalabb   és idősebb generációk körében egyaránt.
-
-    Zenéjükben a meghatározó jazzalapot  bluesos, funkys és népzenei (magyar és balkáni) hatások szövik át. Céljuk minél több helyre eljutni, és eljuttatni az általuk képviselt minőségi, fogyasztható és értéket képviselő zenét."
-- name: Song-óra
+   "2016-ban azért kezdünk el együtt játszani, hogy legyen egy zenekar, amiben levezethetjük a kreatív energiáinkat.
+   A stílusunk nagy kavalkádja a groove és pop zenének, emellett folyton születnek saját számok.
+   Az improvizáció nagy teret kap, mert a zenekar egyik lényege, hogy meghallgathassuk egymás gondolatát."
+- name: Petra Várallyay Trio
   time: '21:00'
   loc: Kert
-  fb: https://www.facebook.com/fatime.song.ora/
+  image: PetraVárallyayTrio.jpg
+  fb: https://www.facebook.com/PetraVarallyayTrio/
+    desc: |-
+   "2016-ban azért kezdünk el együtt játszani, hogy legyen egy zenekar, amiben levezethetjük a kreatív energiáinkat.
+   A stílusunk nagy kavalkádja a groove és pop zenének, emellett folyton születnek saját számok.
+   Az improvizáció nagy teret kap, mert a zenekar egyik lényege, hogy meghallgathassuk egymás gondolatát."
 - name: TOMBOLA
   time: '22:00'
   loc: Kert
