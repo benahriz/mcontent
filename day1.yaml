@@ -2,7 +2,7 @@
 _id: day1
 _rev: 31-6c5919fa81bbe4870431fbfd15263b2f
 name: Jazz nap
-date: június 3, péntek
+date: június 9, péntek
 fb: https://www.facebook.com/events/1357978594218682
 events:
 - name: In:Form
@@ -11,19 +11,15 @@ events:
 - name: Sütő Márton
   time: '18:00'
   loc: Kert
-  desc: A Marzipan B élő hangszeres és énekes zene, hangsúlyos kórusokkal. Érzelmeketközvetít,
-    nem akar többet mutatni. Nőies és férfias, lágy, de néhol kemény  igazságtartalmú
-    sorokat tartalmaz. Sokat merítettünk a népzenéből, sokat régi popdalokból, a progresszív
-    rockból, az elektronikus és jazzes irányzatokból."
-  fb: https://hu-hu.facebook.com/marzipanb
-  logo: marczipan.png
+  desc: |-
+   "1978-ban született Budapesten. Általános iskolás évei alatt került szorosabb kapcsolatba zenével, klasszikus trombitát tanult a lausanne-i konzervatóriumban.
+Hazaköltözése után folytatta zenei tanulmányait, a trombitát - a Led Zeppelin hatására - gitárra cserélte. 93-ban az Erkel Ferenc Zeneiskolában kezdett gitárt tanulni Juhász Gábornál, itt ismerkedett meg a jazzel.
+1997-ben egyetemi matematikai tanulmányokba kezdett, majd 2000-től párhuzamosan a LFZE jazz tanszékén tanult. Mindkét diplomáját 2004-ben szerezte meg.
+2002 decemberében vendégszerepelt az Egy Kis Erzsi trafóbeli koncertjén, később állandó tagja lett az csapatnak. Saját együttesét, a Smárton Triót 2003-ban alapította. "
 - name: Baris Gábor Quartett
   time: '19:00'
   loc: Kert
-  desc: Baris Gábor - szaxofon, fuvola
-  Klimász Tamás - nagybőgő
-  Molnár Bencze - Hrodes piano
-  Varga Bendegúz - dobok
+  desc: Baris Gábor - szaxofon, fuvola\nKlimász Tamás - nagybőgő\nMolnár Bencze - Hrodes piano\nVarga Bendegúz - dobok
   image: BBaris.jpg
   fb: https://www.facebook.com/BGinoQ/
 - name: Scheme
@@ -50,8 +46,8 @@ events:
   type: tombola
   desc: "Élő tombola sorsolás a támagatói tombolaszelvényel vásárlói között"
 - name: Kerti DJ-k
-  desc: Mr. Fiel, In:Form, Tomanek, DRS, Bodoo
-  time: '23:00'
+  desc: Tomanek, Dj Kölyök, Zotyka
+  time: '22:30'
   loc: Kert
 - name: Dokkerman and the Turkeying Fellaz
   time: '23:30'
@@ -60,19 +56,30 @@ events:
   fb: https://hu-hu.facebook.com/dokkerman/
   desc: |-
     "A Dokkerman ugyanis funk, a funknak még abból a koszakából, amikor a funkys poprock csak valamiféle disztopikus rémálomnak tűnhetett."
-
      A Dokkerman and the Turkeying Fellaz egy deep funk revival zenekar. Számaikban az itthon már csak DJ-k által pörgetett koszos ritmusokat hasznosítják újra, és lehelnek életet a régi funk, afrobeat és trash/garage beat ütemekbe. Recsegős gitár, szakadt orgona, egymondatos szövegek. Táncolni kötelez
-- name: Gentry Sultan
+- name: Ágoston Béla & A Knutdut Men
   time: '22:30'
+  loc: Kisterem
+  sound: https://www.youtube.com/watch?v=vaUjgV5Ql-8
+  desc: |-
+  "A zenei világukban jól megférnek egymás mellett a fülbemászó jazz dallamok és az avantgárd irányzatokból merített effektusok; élvezhető free-jazzt, avantgárdot, néha a kortárs zenéhez közelítő bonyolult jazzt is hallhattunk tőlük.
+A zenekarnak tavaly ősszel jelent meg első lemeze Dunno címmel!\n\n
+Ágoston Béla – tenor-, és szopránszaxofon\nMurányi Ákos – altszaxofon\nPengő Csaba – nagybőgő\nHárságyi Péter – dob."
+- name: Gentry Sultan
+  time: '23:30'
   loc: Kisterem
   sound: https://gentrysultan.bandcamp.com/
   fb: https://www.facebook.com/gentrysultan/
+  desc: |-
+  "experimental, avant-garde, noise-jazz-punk\n\n
+  A - Hevesi Nándor- basszus,billentyű, Horváth László- trombita, elektro-akusztikus effektek, Vereb Szabolcs-szaxofon, billentyű, theremin, Kovács Gergely- dobok - négyesfogat zenéje tartalmilag és hangzásában is fúziót képez korábbi énjük speciálisan romantikus, mással nem összetéveszthető formavilága, a free-jazz hagyományok tradíciói, az orientalizmus és a kortárs zene elementáris, arcát folyamatosan változtató jelene között. A Gentry Sultan avantgarde-ja szélesre tárja kapuit az ambient, a punk, a népek zenéje, a sramli, és a noise előtt is és továbbra is belső törvényszerűségeinek engedelmeskedve zenél az örökkévalóságnak."
 - name: The Best Bad Trip
-  time: '23:30'
+  time: '00:30'
   loc: Kisterem
   sound: https://www.youtube.com/watch?v=AX54uq1NR24
   fb: https://www.facebook.com/TheBestBadtrip/
-  desc: "A főként húsz év körüli fiatalokból álló zenekarnak akár jelmondata lehetne,
+  desc: |-
+    "A főként húsz év körüli fiatalokból álló zenekarnak akár jelmondata lehetne,
     hogy ők játsszák a \"legmegbízhatatlanabb\" zenét, vagyis akármennyire is szórakoztató,
     ütős, vagy táncos egy éppen játszott téma, bármikor valami másba fordulhat át.
     \n\nZenéjükben egymást szorosan követik a kemény és lágy, az egyszerű és bonyolult,
@@ -87,24 +94,23 @@ events:
     Mindezek ellenére az együttes szépsége az őszinte, siker és haszonelvűségtől mentes
     ártatlanságban rejlik. Koncerteiken a közönség csupán öt barátot lát, akik azt
     csinálják amit a legjobban szeretnek: zenélnek."
-- name: Choose Cheese
+- name: Random Spectral Walks
+  time: '23:00'
+  loc: Room 41
+  fb: https://www.facebook.com/cokxpon/
+desc: Baráth Bálint - modulár elektronika\nDóra Attila - szaxofon, preparált harsona\nKováts Jázon - elektronika\nKovács Ákos - ütőhangszerek
+- name: Antropomorf
   time: '00:30'
-  loc: Kisterem
-  sound: https://www.youtube.com/watch?v=vaUjgV5Ql-8
-  fb: https://www.facebook.com/choosecheesehungary/
-  desc: A zenekar a jazz alaptételeiből merít, új elemekkel színesítve azt, mind hangzásban
-    hangvételben, energiában, hangerőben, ritmikában - hozzáállásban. A zenekar főként
-    saját szerzemények ad elő, melyek kidolgozásában a trió tagjai aktívan részt vesznek.
-- name: DJ Kölyök
-  time: '00:30'
-  loc: Nagyterem
+  loc: Room 41
+  fb: https://www.facebook.com/AntropomorfLoop/
+desc: Egy talán sose létező kultúra muzsikája: Krizbai Domokos - Guitar, Electronics
 - name: Bogrács
   time: 19:00 kb
   loc: Bogrács
   desc: |-
-    Bádogdob/Haladó: Csülökpörkölt
-    Pergő Képek/Haza és Haladás: Cseh gulyás knédlivel és káposztával
-- name: ROBUR Stúdió
+    Haza és Haladás/Pergő Képek/Planet ERROR: Moduláris Chilli
+    Csetesek: Vörösboros Trollcsülök (csetadmin módra)
+- name: TILOS - Caravan Stúdió
   time: '16:00'
   loc: Robur
   type: radio
